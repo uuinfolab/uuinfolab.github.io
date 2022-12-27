@@ -1,8 +1,15 @@
 # Publications
 
+- year: 2022
+  publications:
+    - title: "Robustness and sensitivity of network-based topic detection"
+      type: "in-proceedings"
+      author: Carla Galluccio, Matteo Magnani, Davide Vega, Giancarlo Ragozini, Alessandra Petrucci
+      conference: "The 11th International Conference on Complex Networks and their Applications"
+      year: 2022
+      
 - year: 2021
   publications:
-  
     - title: "Defining and measuring probabilistic ego networks"
       type: "article"
       author: Amin Kaveh, Matteo Magnani, and Christian Rohner
