@@ -30,3 +30,8 @@
   url: "https://uuinfolab.github.io/courses/readings_netsci_phd_23"
   description: "This course consists in reading literature in network science and discussing it at monthly meetings."
   
+- name: "Reviewing scientific papers"
+  level: "PhD"
+  frequency: "Every second year"
+  url: "https://uuinfolab.github.io/courses/reviewing_phd_23"
+  description: "This course is about the theory and practice of reviewing scientific papers."
