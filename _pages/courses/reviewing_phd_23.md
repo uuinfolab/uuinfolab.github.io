@@ -1,7 +1,7 @@
 ---
 layout: infolab-toplevel
 title: Education
-permalink: /courses/readings_netsci_phd_23
+permalink: /courses/reviewing_phd_23
 header:
   overlay_image: /assets/images/banner_small.jpg
   overlay_filter: "0.4"
