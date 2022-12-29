@@ -27,6 +27,6 @@
 - name: "Readings in Network Science"
   level: "PhD"
   frequency: "At any time, depending on interest"
-  url: "#"
-  description: "This course consists in reading literature in network science and discussing it in monthly meetings."
+  url: "https://uuinfolab.github.io/courses/readings_netsci_phd_23"
+  description: "This course consists in reading literature in network science and discussing it at monthly meetings."
   
