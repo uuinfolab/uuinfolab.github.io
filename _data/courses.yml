@@ -9,7 +9,7 @@
 - name: "Data Mining I"
   level: "Master"
   frequency: "Twice a year"
-  url: "http://www.uu.se/en/admissions/master/selma/kursplan/?kKod=1DL007"
+  url: "https://www.uu.se/en/admissions/master/selma/kursplan/?kKod=1DL360"
   description: "An introduction to data mining, its terminology and different approaches to extract knowledge from data, including classification, clustering, and association analysis. We cover different types of data, including tables, transactions, graphs, and text."
   
 - name: "Data Mining"
