@@ -12,14 +12,15 @@ toc: true
 
 ### Postdoc
 
-No currently open position.
+PostDoc position in <b>Computer Science with a focus on Professional Competences and Equal Opportunities</b>.<br/>
+Deadline: May 2, 2023<br/>
+<a href="https://www.uu.se/en/about-uu/join-us/details/?positionId=607358">Apply here.</a><br/>
+For questions, please contact <a href="mailto:davide.vega@it.uu.se?subject=PostDoc%20Position%20professional%20competences">Davide</a>.
+
 
 ### PhD
 
-PhD position in <b>social data science</b>.<br/>
-Deadline: Nov 25, 2022<br/>
-<a href="https://www.uu.se/en/about-uu/join-us/details/?positionId=561864">Apply here.</a><br/>
-For questions, please contact <a href="mailto:matteo.magnani@it.uu;alexandra.segerberg@statsvet.uu.se?subject=PhD%20Position%20social%20data%20science">Matteo and Alexandra</a>.
+No currently open position.
 
 ### Research assistant
 
