@@ -12,11 +12,7 @@ toc: true
 
 ### Postdoc
 
-PostDoc position in <b>Computer Science with a focus on Professional Competences and Equal Opportunities</b>.<br/>
-Deadline: May 2, 2023<br/>
-<a href="https://www.uu.se/en/about-uu/join-us/details/?positionId=607358">Apply here.</a><br/>
-For questions, please contact <a href="mailto:davide.vega@it.uu.se?subject=PostDoc%20Position%20professional%20competences">Davide</a>.
-
+No currently open position.
 
 ### PhD
 
