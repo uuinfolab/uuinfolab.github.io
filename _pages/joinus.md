@@ -24,7 +24,7 @@ No currently open positions.
 
 ### Internship
 
-We currently have no open internship positions.
+No currently open positions.
 
 ### Thesis projects
 
@@ -32,7 +32,9 @@ At our lab we host a limited number of thesis projects, listed below. Those work
 
 If you are interested, please send an email to the person responsible for the project incuding your transcript, a CV, and a short motivation.
 
-- **Generation of large-scale social networks of formal ties** In the Data Mining course (prerequisite for this project), you have seen the ER model, which can be used to generate simple graphs. This is a fundamental model to generate random (and thus unrealistic) networks, that can be used to understand whether what we see in real networks is a result of randomness or an actual signal to be analysed. The objective of this project is to define and implement a model that can generate realistic data about formal social ties (that is: family ties, same-workplace, same-school, same-neighborhood, etc.). The work will start with a kind of “multilayered” ER-like model, and define (and implement) a sequence of more and more realistic models by adding non-random assumptions about the distribution of the ties (just as an example, things such as: higher probability of having family ties when people live close by and go to the same school, then longitudinal information about how links evolve in time, etc.). A computational challenge is that this model must be able to generate large data – with 10 to 20 million individuals and billions of ties. This is part of a project where we use registry data to generate population-scale social networks to study segregation and other sociological problems. We need this work both to share data (because we are of course not allowed to share the real data), and to make hypotheses about how such data is generated. For info, contact Matteo.
+No currently open thesis project.
+
+[//]: # (- **Generation of large-scale social networks of formal ties** In the Data Mining course (prerequisite for this project), you have seen the ER model, which can be used to generate simple graphs. This is a fundamental model to generate random (and thus unrealistic) networks, that can be used to understand whether what we see in real networks is a result of randomness or an actual signal to be analysed. The objective of this project is to define and implement a model that can generate realistic data about formal social ties (that is: family ties, same-workplace, same-school, same-neighborhood, etc.). The work will start with a kind of “multilayered” ER-like model, and define (and implement) a sequence of more and more realistic models by adding non-random assumptions about the distribution of the ties (just as an example, things such as: higher probability of having family ties when people live close by and go to the same school, then longitudinal information about how links evolve in time, etc.). A computational challenge is that this model must be able to generate large data – with 10 to 20 million individuals and billions of ties. This is part of a project where we use registry data to generate population-scale social networks to study segregation and other sociological problems. We need this work both to share data (because we are of course not allowed to share the real data), and to make hypotheses about how such data is generated. For info, contact Matteo.)
 
 ## Before joining
 
