@@ -1,7 +1,23 @@
 # Publications
 
+- year: 2023
+  publications:
+  - title: "Discursive construction of migrant otherness on Facebook: A distributional semantics approach"
+      type: "article"
+      author: Victoria Yantseva
+      journal: "Discourse & Society"
+      volume: 34
+      number: 2
+      year: 2023
 - year: 2022
   publications:
+  - title: "Stance Classification of Social Media Texts for Under-Resourced Scenarios in Social Sciences"
+      type: "article"
+      author: Victoria Yantseva, Kostiantyn Kucher
+      journal: "Data"
+      volume: 7
+      number: 11
+      year: 2022
     - title: "Robustness and sensitivity of network-based topic detection"
       type: "in-proceedings"
       author: Carla Galluccio, Matteo Magnani, Davide Vega, Giancarlo Ragozini, Alessandra Petrucci
