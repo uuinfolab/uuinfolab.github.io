@@ -3,7 +3,7 @@
 - year: 2023
   publications:
   
-  - title: "Discursive construction of migrant otherness on Facebook: A distributional semantics approach"
+    - title: "Discursive construction of migrant otherness on Facebook: A distributional semantics approach"
       type: "article"
       author: Victoria Yantseva
       journal: "Discourse & Society"
@@ -14,7 +14,7 @@
 - year: 2022
   publications:
   
-  - title: "Stance Classification of Social Media Texts for Under-Resourced Scenarios in Social Sciences"
+    - title: "Stance Classification of Social Media Texts for Under-Resourced Scenarios in Social Sciences"
       type: "article"
       author: Victoria Yantseva, Kostiantyn Kucher
       journal: "Data"
@@ -30,6 +30,7 @@
       
 - year: 2021
   publications:
+  
     - title: "Defining and measuring probabilistic ego networks"
       type: "article"
       author: Amin Kaveh, Matteo Magnani, and Christian Rohner
