@@ -8,7 +8,7 @@
   url: "https://katalog.uu.se/profile/?id=N13-1077"
   title: "Professor"
 - name: "Davide Vega D'Aurelio"
-  pic: "/assets/images/people/davide2.png"
+  pic: "/assets/images/people/davide.jpg"
   url: "https://davidevega.eu"
   title: "Assistant Professor"
 - name: "Victoria Yantseva"
@@ -35,4 +35,3 @@
   pic: "/assets/images/people/matias.png"
   url: "https://www.it.uu.se/katalog/matpi832"
   title: "PhD Student"
-
