@@ -59,6 +59,6 @@ The course is targeted to PhD students willing to apply network science in their
 
 ## Registration
 
-The course is free and open to everyone upon registration, the number of available places is limited; PhD students will be given priority. If interested, please use the following form: https://forms.gle/btkNvpDDpbVrLLHJ7. Please *register latest April 14, 2024*.
+The course is free and open to everyone upon registration, the number of available places is limited; PhD students will be given priority. If interested, please use the <a href="https://forms.gle/btkNvpDDpbVrLLHJ7" target="_blank">registration form</a> . Please *register latest April 14, 2024*.
 
 
