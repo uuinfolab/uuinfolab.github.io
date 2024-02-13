@@ -195,6 +195,9 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+posts:
+    excerpt_separator: <!--excerptEnd-->
+
 
 # Markdown Processing
 kramdown:
