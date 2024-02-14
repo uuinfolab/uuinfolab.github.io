@@ -24,20 +24,20 @@ The schedule for the course is the following:
 
 ### PART I: Networks: basic concepts (lectures with practical activities)
 
- * Mon, May 20, 09:00-10:30 Room 10XXXX (Ångström laboratory) Introduction to the course (Davide Vega)
- * Mon, May 20, 10:30-15:30 Room 10XXXX (Ångström laboratory) Basics: Models and measures (Matteo Magnani)
- * Tue, May 21, 09:00-10:30 Room 10XXXX (Ångström laboratory) Introduction to graph mining (Matteo Magnani)
- * Tue, May 21, 10:30-12:00 Room 10XXXX (Ångström laboratory) Modularity-based graph clustering (Fiona Skerman, Dept. of mathematics)
- * Tue, May 21, Tue, 13:15-14:00 Room 10XXXX (Ångström laboratory) Propagation (Christian Rohner)
- * Tue, May 21, Tue, 14:00-16:00 Room 10XXXX (Ångström laboratory) TBA
+ * Mon, May 20, 09:00-10:30 Room 101142 (Ångström laboratory) Introduction to the course (Davide Vega)
+ * Mon, May 20, 10:30-15:30 Room 101142 (Ångström laboratory) Basics: Models and measures (Matteo Magnani)
+ * Tue, May 21, 09:00-10:30 Room 101142 (Ångström laboratory) Introduction to graph mining (Matteo Magnani)
+ * Tue, May 21, 10:30-12:00 Room 101142 (Ångström laboratory) Modularity-based graph clustering (Fiona Skerman, Dept. of mathematics)
+ * Tue, May 21, Tue, 13:15-14:00 Room 101142 (Ångström laboratory) Propagation (Christian Rohner)
+ * Tue, May 21, Tue, 14:00-16:00 Room 101142 (Ångström laboratory) TBA
 
 ### PART II: Selected topics (lectures with practical activities and guest lectures)
 
- * Mon, May 27, 09:00-12:00 Room 10XXXX (Ångström laboratory) Roles and positions (Davide Vega)
- * Mon, May 27, 13:15-15:15 Room 10XXXX (Ångström laboratory) TBA
- * Tue, May 28, 09:00-12:00 Room 10XXXX (Ångström laboratory) TBA
- * Tue, May 28, 13:15-15:00 Room 10XXXX (Ångström laboratory) TBA
- * Fri, June 14, 09:00- Room 10XXXX (Ångström laboratory) TBA
+ * Mon, May 27, 09:00-12:00 Room 101142 (Ångström laboratory) Roles and positions (Davide Vega)
+ * Mon, May 27, 13:15-15:15 Room 101142 (Ångström laboratory) TBA
+ * Tue, May 28, 09:00-12:00 Room 101142 (Ångström laboratory) TBA
+ * Tue, May 28, 13:15-15:00 Room 101142 (Ångström laboratory) TBA
+ * Fri, June 14, 09:00- Room 101142 (Ångström laboratory) TBA
 
 ### PART III: Literature study
 
@@ -60,5 +60,4 @@ The course is targeted to PhD students willing to apply network science in their
 ## Registration
 
 The course is free and open to everyone upon registration, the number of available places is limited; PhD students will be given priority. If interested, please use the <a href="https://forms.gle/btkNvpDDpbVrLLHJ7" target="_blank">registration form</a> . Please *register latest April 14, 2024*.
-
 
