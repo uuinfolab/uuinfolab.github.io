@@ -64,6 +64,12 @@
 - scope: "Local"
   projects:
     
+    - title: "AI4Research Sabbatical"
+      id: ""
+      funder: "AI4Research"
+      years: "2024"
+      description: "Internal sabbatical (50%) at the AI4Research center to write a textbook on social data mining."
+    
     - title: "Digital politics (Research Network)"
       id: ""
       funder: "Centre for Integrated Research on Culture and Society (CIRCUS)"

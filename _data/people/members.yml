@@ -35,3 +35,12 @@
   pic: "/assets/images/people/matias.png"
   url: "https://www.it.uu.se/katalog/matpi832"
   title: "PhD Student"
+# Temporary
+- name: "Luigi Arminio"
+  pic: "/assets/images/people/luigi.png"
+  url: "https://pure.itu.dk/en/persons/luigi-arminio"
+  title: "Visiting PhD Student"
+- name: "Giuseppe Giordano"
+  pic: "/assets/images/people/giuseppe.png"
+  url: "https://docenti.unisa.it/005269/en/home"
+  title: "Visiting Faculty"
