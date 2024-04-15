@@ -37,7 +37,7 @@ The schedule for the course is the following:
  * Mon, May 27, 09:00-12:00 Room 101142 (Ångström laboratory) Community Detection (Martin Rosvall, IceLab, Umeå University)
  * Mon, May 27, 13:15-15:15 Room 101142 (Ångström laboratory) Inferential community detection (Roger Guimerà, Universitat Rovira i Virgili)
  * Tue, May 28, 09:00-12:00 Room 101142 (Ångström laboratory) Roles and positions (Davide Vega)
- * Tue, May 28, 13:15-15:00 Room 101142 (Ångström laboratory) TBA
+ * Tue, May 28, 13:15-15:00 Room 101142 (Ångström laboratory) Applications in Network Science (TBA)
  * Fri, June 14, 09:00- Room 101142 (Ångström laboratory) Program committee meeting and course conclusion
 
 ### PART III: Literature study
@@ -60,4 +60,4 @@ The course is targeted to PhD students willing to apply network science in their
 
 ## Registration
 
-The course is free and open to everyone upon registration, the number of available places is limited; PhD students will be given priority. If interested, please use the <a href="https://forms.gle/btkNvpDDpbVrLLHJ7" target="_blank">registration form</a> . Please *register latest April 14, 2024*.
+The course is free and open to everyone upon registration, the number of available places is limited; PhD students will be given priority. If interested, please use the <a href="https://forms.gle/btkNvpDDpbVrLLHJ7" target="_blank">registration form</a> . Please *register latest May 15, 2024*.
