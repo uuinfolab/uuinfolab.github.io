@@ -1,9 +1,24 @@
 # People
+- year: 2023
+  name: Christian Ocklind
+  role: BSc student
+  thesis: A Comparative Analysis of Multilayer Network Software
+  url: "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-510420"
 - year: 2022
   name: Amin Kaveh
   role: PhD student
   thesis: Modelling and Analysis of Probabilistic Networks
   url: "http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-467326"
+- year: 2022
+  name: Alexander Tsakiris
+  role: MSc student
+  thesis: The Portrayal of the 2022 Russian Invasion of Ukraine on Social Media
+  url: "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-488835"
+- year: 2022
+  name: Benedict Treeby
+  role: MSc student
+  thesis: Tracking the Conversation around NATO in the Nordic States Using Machine Learning
+  url: "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-490770"
 - year: 2021
   name: Katarzyna Kowalczyk
   role: MSc student
