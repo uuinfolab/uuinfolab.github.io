@@ -14,6 +14,9 @@ toc: true
 
 **Head teachers:** Christian Rohner, Davide Vega D'Aurelio
 
+**Registration open:** The course is free and open to everyone upon registration, the number of available places is limited; PhD students will be given priority. If interested, please use the <a href="https://forms.gle/btkNvpDDpbVrLLHJ7" target="_blank">registration form</a> . Please *register latest May 15, 2024*.
+{: .notice}
+
 ## Description of the course
 
 Network Science is a very active and interdisciplinary field aimed at studying physical, social and biological systems that can be modeled as sets of interconnected entities. The course covers the basics of network science, including social network analysis centrality measures (degree, betweenness, ...), network properties (degree distribution, average path length, ...), network models (Erdös-Renyi, small-world, preferential attachment), propagation (SI/SIR/SIS models, ...), the main network mining tasks (position/role detection, link prediction, community detection) as well as recent developments (multilayer networks, etc.). These topics are presented both in theory, through lectures, and practically, where participants learn network analysis software libraries. Then, students choose and review a set of important papers from different areas, selected by the teachers based on their importance in the field, to learn about advanced applications and developments of the students' interests. The basic topics will be introduced in theory and practice, using `R` and different network analysis packages.
