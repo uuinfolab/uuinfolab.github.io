@@ -15,7 +15,7 @@ toc: true
 **Head teachers:** Christian Rohner, Davide Vega D'Aurelio
 
 **Registration open:** The course is free and open to everyone upon registration, the number of available places is limited; PhD students will be given priority. If interested, please use the <a href="https://forms.gle/btkNvpDDpbVrLLHJ7" target="_blank">registration form</a> . Please *register latest May 15, 2024*.
-{: .notice}
+{: .notice--warning}
 
 ## Description of the course
 
