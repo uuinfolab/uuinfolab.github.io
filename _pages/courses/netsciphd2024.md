@@ -30,8 +30,8 @@ The schedule for the course is the following:
  * Mon, May 20, 09:00-9:30 Room 101142 (Ångström laboratory) Introduction to the course (Davide Vega)
  * Mon, May 20, 9:30-12:00 Room 101142 (Ångström laboratory) Basics: Models and measures (Matteo Magnani)
  * Mon, May 20, 13:00-15:30 Room 101142 (Ångström laboratory) Basics: Models and measures (Matteo Magnani)
- * Tue, May 21, 09:00-11:00 Room 101142 (Ångström laboratory) Propagation  (Christian Rohner)
- * Tue, May 21, 11:00-12:30 Room 101142 (Ångström laboratory) Modularity-based graph clustering (Fiona Skerman, Dept. of mathematics)
+ * Tue, May 21, 09:00-10:30 Room 101142 (Ångström laboratory) Propagation  (Christian Rohner)
+ * Tue, May 21, 10:30-12:00 Room 101142 (Ångström laboratory) Modularity-based graph clustering (Fiona Skerman, Dept. of mathematics)
  * Tue, May 21, Tue, 13:15-14:00 Room 101142 (Ångström laboratory) Temporal Networks (Christian Rohner)
  * Tue, May 21, Tue, 14:00-16:00 Room 101142 (Ångström laboratory) Node distances and measures (Michele Coscia, IT University of Copenhagen)
 
