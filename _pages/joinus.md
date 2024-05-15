@@ -16,7 +16,7 @@ No currently open position.
 
 ### PhD
 
-No currently open position.
+We have an open PhD position on <a href="https://uu.varbi.com/en/what:job/jobID:727423/" target="_new">social cybersecurity</a>. 
 
 ### Research assistant
 
@@ -50,7 +50,7 @@ Given the creative nature of part of our work, Infolab members are generally fre
 
 At the same time, everyone is expected to contribute to the lab, which implies being available to give feedback, sharing their current research with other members (see below), and participating in lab meetings.
 
-Lab members are free to take time to work offline. In particular, it is not necessary to be continuously online on our Slack space. Checking the Slack at least once a day is however expected, and if one cannot be online for a few days for any reason (e.g., holidays) it is good practice to inform the other lab members.
+Lab members are free to take time to work offline. In particular, it is not necessary to be continuously online on our Slack space. Checking the Slack at least once a day is however expected, and if one cannot be online for a few days for any reason (e.g. holidays) it is good practice to inform the other lab members.
 
 ### Research quality at the Infolab
 
