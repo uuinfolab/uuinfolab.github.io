@@ -37,11 +37,11 @@ The schedule for the course is the following:
 
 ### PART II: Selected topics (lectures with practical activities and guest lectures)
 
- * Mon, May 27, 09:00-12:00 Room 101142 (Ångström laboratory) Community Detection (Martin Rosvall, IceLab, Umeå University)
- * Mon, May 27, 13:15-15:15 Room 101142 (Ångström laboratory) Inferential community detection (Roger Guimerà, Universitat Rovira i Virgili)
- * Tue, May 28, 09:00-12:00 Room 101142 (Ångström laboratory) Roles and positions (Davide Vega)
- * Tue, May 28, 13:15-15:00 Room 101142 (Ångström laboratory) Applications in Network Science (Davide Vega)
- * Fri, June 14, 09:00- Room 101142 (Ångström laboratory) Program committee meeting and course conclusion
+ * Mon, May 27, 09:00-12:00 Room 101127 (Ångström laboratory) Community Detection (Martin Rosvall, IceLab, Umeå University)
+ * Mon, May 27, 13:15-15:15 Room 101127 (Ångström laboratory) Inferential community detection (Roger Guimerà, Universitat Rovira i Virgili)
+ * Tue, May 28, 09:00-12:00 Room 101127 (Ångström laboratory) Roles and positions (Davide Vega)
+ * Tue, May 28, 13:15-15:00 Room 101127 (Ångström laboratory) Applications in Network Science (Davide Vega)
+ * Fri, June 14, 09:00- Room 101127 (Ångström laboratory) Program committee meeting and course conclusion
 
 ### PART III: Literature study
 
@@ -51,7 +51,7 @@ Students will bid and be assigned to relevant research papers covering various a
  * Bidding deadline:  Fri, May 31.
  * Paper assignment:  Mon, June 3.
  * Deadline to submit reviews:  Wed, June 12.
- * Program committee meeting and course conclusion: Fri, June 14 Room 101142 (Ångström laboratory).
+ * Program committee meeting and course conclusion: Fri, June 14 Room 101127 (Ångström laboratory).
 
 ## Credits and assessment
 
