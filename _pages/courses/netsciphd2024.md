@@ -41,7 +41,7 @@ The schedule for the course is the following:
  * Mon, May 27, 13:15-15:15 Room 101127 (Ångström laboratory) Inferential community detection (Roger Guimerà, Universitat Rovira i Virgili)
  * Tue, May 28, 09:00-12:00 Room 101127 (Ångström laboratory) Roles and positions (Davide Vega)
  * Tue, May 28, 13:15-15:00 Room 101127 (Ångström laboratory) Applications in Network Science (Davide Vega)
- * Fri, June 14, 09:00- Room 101127 (Ångström laboratory) Program committee meeting and course conclusion
+ * Fri, June 14, 09:00-12:00 Room 101127 (Ångström laboratory) Program committee meeting and course conclusion
 
 ### PART III: Literature study
 
