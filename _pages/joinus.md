@@ -16,7 +16,9 @@ No currently open position.
 
 ### PhD
 
-We have an open PhD position on <a href="https://uu.varbi.com/en/what:job/jobID:727423/" target="_new">social cybersecurity</a>. 
+No currently open positions.
+
+[//]: # (- We have an open PhD position on <a href="https://uu.varbi.com/en/what:job/jobID:727423/" target="_new">social cybersecurity</a>.)
 
 ### Research assistant
 
