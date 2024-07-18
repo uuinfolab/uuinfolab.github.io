@@ -1,15 +1,26 @@
 # Publications
 
+- year: 2024
+  publications:
+  
+    - title: "Improved Visual Saliency of Graph Clusters with Orderable Node-Link Layouts"
+      type: "in-proceedings"
+      author: Nora Al-Naami, Nicolas Médoc, Matteo Magnani, Mohammad Ghoniem
+      conference: "IEEE Vis"
+      year: 2024
+      material: https://osf.io/kc3dg/
+      
 - year: 2023
   publications:
     
-    - title: "Discursive construction of migrant otherness on Facebook: A distributional semantics approach"
+    - title: "Immigrant-critical alternative media in online conversations"
       type: "article"
       author: Victoria Yantseva, Davide Vega, Matteo Magnani
       journal: "Plos ONE"
       volume: 18
       number: 11
       year: 2023
+      material: https://osf.io/vp7rq/
     
     - title: "Discursive construction of migrant otherness on Facebook: A distributional semantics approach"
       type: "article"
