@@ -20,6 +20,7 @@ Here we only list publications related to the activities of the lab. For other p
 {% elsif pub.type == "in-proceedings" %}In: {{ pub.conference }}, {{ pub.year }}
 {% elsif pub.type == "chapter" %}Chapter in: {{ pub.book }}, {{ pub.year }}
 {% elsif pub.type == "thesis" %}{{ pub.description }}, {{ pub.year }}
+{% if pub.material != nil %} (<a href="{{ pub.material }}">material</a>){% endif %}
 {% endif %}
 {% endfor %}
 
