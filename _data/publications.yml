@@ -31,16 +31,16 @@
       year: 2023
     
     - title: "Modularity-based selection of the number of slices in temporal network clustering"
-      type: "book chapter"
+      type: "chapter"
       author: Patrik Seiron, Axal Lindegren, Matteo Magnani, Christian Rohner, Tsuyoshi Murata, Petter Holme
-      journal: "Temporal Network Theory"
+      book: "Temporal Network Theory"
       pages: 435-447
       year: 2023
           
     - title: "Metrics for temporal text networks"
-      type: "book chapter"
+      type: "chapter"
       author: Davide Vega, Matteo Magnani
-      journal: "Temporal Network Theory"
+      book: "Temporal Network Theory"
       pages: 149-164
       year: 2023
       
