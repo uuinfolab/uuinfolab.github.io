@@ -1,6 +1,6 @@
 # Projects
 
-- scope: "International"
+- scope: "International research projects and funded collaborations"
   projects:
 
     - title: "VISUAL PERSUASION IN A TRANSFORMING EUROPE: the affective and polarising power of visual content in online political discourse (PolarVis)"
@@ -33,7 +33,7 @@
       years: "2017-2018"
       description: "Seed funding for the establishment of a collaboration with TokyoTech."
 
-- scope: "National"
+- scope: "National research projects and funded collaborations"
   projects:
 
     - title: "eSSENCE"
@@ -48,20 +48,8 @@
       years: "2022-2025"
       description: "A project on methodological and empirical advances in the analysis of online visual political communication."
 
-    - title: "Information monitoring, propagation analysis and community detection in social network sites (IMPACT)"
-      id: "FIRB project RBFR107725"
-      funder: "Italian Ministry for Education, University and Research (MIUR)"
-      years: "2012-2016"
-      description: "This grant allowed the Infolab coordinator to develop the research area that led to the establishment of the lab."
 
-    - title: "Working Capital research grant"
-      id: ""
-      funder: "Telecom Italia"
-      years: "2010-2011"
-      description: "This grant allowed the Infolab coordinator to start doing research on social media data."
-
-
-- scope: "Local"
+- scope: "Funding from Uppsala University"
   projects:
     
     - title: "AI4Research Sabbatical"
@@ -88,3 +76,25 @@
       years: "2020-2021"
       description: "Internal sabbatical (50%) at the AI4Research center on using deep neural networks to study online visual political communication."
     
+
+- scope: "Travel grants"
+  projects:
+     
+    - title: "Research stay"
+      id: ""
+      funder: "AccelNet-MultiNet"
+      years: "2025"
+      description: "Research stay at Indiana University (recipient: Georgios Panayiotou)"
+      
+    - title: "Research stay"
+      id: ""
+      funder: "Karl Staaff Foundation"
+      years: "2025"
+      description: "Research stay at New York University (recipient: Matias Piqueras)"
+   
+    - title: "Research stay"
+      id: ""
+      funder: "SoBigData"
+      years: "2024"
+      description: "University of Pisa (recipient: Georgios Panayiotou)"
+      
