@@ -122,6 +122,7 @@
       volume: 10
       number: 1
       year: 2020
+      pdf: /assets/papers/20sr.pdf
 
     - title: "Multilayer network simplification: Approaches, models and methods"
       type: "article"
