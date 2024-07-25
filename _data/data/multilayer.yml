@@ -1,52 +1,52 @@
 # Multilayer networks
 
-- name: "florentine"
-  type: "multirelational"
-  mat: "N"
-  met: "Y"
-  attr: "Y (numeric)"
-  layers: 2
-  actors: 16
-  edges: 35
-  bibtex: "florentine.bib"
-  description: "These data, collected by John Padgett from historical documents, describe relations among 16 politically prominent families in the city of Florence around the year 1430: business ties (specifically, recorded  financial ties such as loans, credits, and joint partnerships) and marriage alliances. Two factions appear in the data, with families strongly related to the Medici or to the Strozzi family, making the data useful for testing community detection methods. More information is available at the <a href=\"http://vlado.fmf.uni-lj.si/pub/networks/data/UciNet/UciData.htm\">UCINet</a> dataset archive"
-  url: "http://vlado.fmf.uni-lj.si/pub/networks/data/UciNet/UciData.htm"
-
-- name: "monastery"
-  type: "multirelational"
-  mat: "N"
-  met: "Y"
-  attr: "Y (ranks)"
-  layers: 10
-  actors: 18
-  edges: 510
-  bibtex: "sampson.bib"
-  description: "A group of monks was asked to specify their top three choices on four pairs of positive/negative relations: esteem and disesteem, liking and disliking, positive influence and negative influence, praise and blame. The limit of the top three preferences imposed in the survey can bias the results of measures based on degree, as the out-degree of each actor is 3 by construction of the data. More information is available at the <a href=\"http://vlado.fmf.uni-lj.si/pub/networks/data/UciNet/UciData.htm\">UCINet</a> dataset archive"
-  url: "http://vlado.fmf.uni-lj.si/pub/networks/data/UciNet/UciData.htm"
-  
-- name: "bankwiring"
-  type: "multirelational"
-  mat: "N"
-  met: "Y"
-  attr: "Y (numeric)"
-  layers: 6
-  actors: 14
-  edges: 110
-  bibtex: "bankwiring.bib"
-  description: "These data, first presented by Roethlisberger and Dickson (1939), describe 14 employees of the Hawthorne Plant (Western Electric) working in the bank wiring room. The employees had different roles (two inspectors, three solderers and nine wiremen or assemblers), making the data useful to test role/position detection methods. The available layers describe: participation in horseplay; participation in arguments about open windows; friendship; antagonistic (negative) behavior; helping others with work; and the number of times workers traded job assignments. More information is available at the <a href=\"http://vlado.fmf.uni-lj.si/pub/networks/data/UciNet/UciData.htm\">UCINet</a> dataset archive"
-  url: "http://vlado.fmf.uni-lj.si/pub/networks/data/UciNet/UciData.htm"
-
-- name: "tailorshop"
-  type: "multirelational"
-  mat: "N"
-  met: "Y"
-  attr: "N"
-  layers: 4
-  actors: 39
-  edges: 552
-  bibtex: "tailorshop.bib"
-  description: "Collected by Kapferer (1972), these data represent work and friendship interactions among 39 workers in a tailor shop. Two versions of the social network are available, recorded at two different times. More information is available at the <a href=\"http://vlado.fmf.uni-lj.si/pub/networks/data/UciNet/UciData.htm\">UCINet</a> dataset archive"
-  url: "http://vlado.fmf.uni-lj.si/pub/networks/data/UciNet/UciData.htm"
+#- name: "florentine"
+#  type: "multirelational"
+#  mat: "N"
+#  met: "Y"
+#  attr: "Y (numeric)"
+#  layers: 2
+#  actors: 16
+#  edges: 35
+#  bibtex: "florentine.bib"
+#  description: "These data, collected by John Padgett from historical documents, describe relations among 16 politically prominent families in the city of Florence around the year 1430: business ties (specifically, recorded  financial ties such as loans, credits, and joint partnerships) and marriage alliances. Two factions appear in the data, with families strongly related to the Medici or to the Strozzi family, making the data useful for testing community detection methods. More information is available at the <a href=\"http://vlado.fmf.uni-lj.si/pub/networks/data/UciNet/UciData.htm\">UCINet</a> dataset archive"
+#  url: "http://vlado.fmf.uni-lj.si/pub/networks/data/UciNet/UciData.htm"
+#
+#- name: "monastery"
+#  type: "multirelational"
+#  mat: "N"
+#  met: "Y"
+#  attr: "Y (ranks)"
+#  layers: 10
+#  actors: 18
+#  edges: 510
+#  bibtex: "sampson.bib"
+#  description: "A group of monks was asked to specify their top three choices on four pairs of positive/negative relations: esteem and disesteem, liking and disliking, positive influence and negative influence, praise and blame. The limit of the top three preferences imposed in the survey can bias the results of measures based on degree, as the out-degree of each actor is 3 by construction of the data. More information is available at the <a href=\"http://vlado.fmf.uni-lj.si/pub/networks/data/UciNet/UciData.htm\">UCINet</a> dataset archive"
+#  url: "http://vlado.fmf.uni-lj.si/pub/networks/data/UciNet/UciData.htm"
+#  
+#- name: "bankwiring"
+#  type: "multirelational"
+#  mat: "N"
+#  met: "Y"
+#  attr: "Y (numeric)"
+#  layers: 6
+#  actors: 14
+#  edges: 110
+#  bibtex: "bankwiring.bib"
+#  description: "These data, first presented by Roethlisberger and Dickson (1939), describe 14 employees of the Hawthorne Plant (Western Electric) working in the bank wiring room. The employees had different roles (two inspectors, three solderers and nine wiremen or assemblers), making the data useful to test role/position detection methods. The available layers describe: participation in horseplay; participation in arguments about open windows; friendship; antagonistic (negative) behavior; helping others with work; and the number of times workers traded job assignments. More information is available at the <a href=\"http://vlado.fmf.uni-lj.si/pub/networks/data/UciNet/UciData.htm\">UCINet</a> dataset archive"
+#  url: "http://vlado.fmf.uni-lj.si/pub/networks/data/UciNet/UciData.htm"
+#
+#- name: "tailorshop"
+#  type: "multirelational"
+#  mat: "N"
+#  met: "Y"
+#  attr: "N"
+#  layers: 4
+#  actors: 39
+#  edges: 552
+#  bibtex: "tailorshop.bib"
+#  description: "Collected by Kapferer (1972), these data represent work and friendship interactions among 39 workers in a tailor shop. Two versions of the social network are available, recorded at two different times. More information is available at the <a href=\"http://vlado.fmf.uni-lj.si/pub/networks/data/UciNet/UciData.htm\">UCINet</a> dataset archive"
+#  url: "http://vlado.fmf.uni-lj.si/pub/networks/data/UciNet/UciData.htm"
 
 - name: "aucs"
   type: "hybrid"
