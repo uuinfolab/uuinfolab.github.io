@@ -75,4 +75,13 @@
       funder: "AI4Research"
       years: "2020-2021"
       description: "Internal sabbatical (50%) at the AI4Research center on using deep neural networks to study online visual political communication."
-    
+      
+- scope: "Travel grants"
+  projects:
+     
+    - title: "Research stay"
+      id: ""
+      funder: "AccelNet-MultiNet"
+      years: "2025"
+      description: "Research stay at Indiana University (recipient: Georgios Panayiotou)."
+
