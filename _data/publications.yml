@@ -20,6 +20,7 @@
       volume: 18
       number: 11
       year: 2023
+      pdf: /assets/papers/23pone.pdf
       material: https://osf.io/vp7rq/
     
     - title: "Discursive construction of migrant otherness on Facebook: A distributional semantics approach"
@@ -36,6 +37,7 @@
       book: "Temporal Network Theory"
       pages: 435-447
       year: 2023
+      pdf: /assets/papers/23tnt-sel.pdf
           
     - title: "Metrics for temporal text networks"
       type: "chapter"
@@ -43,6 +45,7 @@
       book: "Temporal Network Theory"
       pages: 149-164
       year: 2023
+      pdf: /assets/papers/23tnt-met.pdf
       
 - year: 2022
   publications:
@@ -71,9 +74,7 @@
       volume: 11
       number:
       year: 2021
-      doi:
-      fulltext:
-      git:
+      pdf: /assets/papers/21snam.pdf
       
     - title: "Probabilistic network sparsification with ego betweenness"
       type: "article"
@@ -106,18 +107,13 @@
       volume: 54
       number:  3
       year: 2021
-      doi:
-      fulltext:
-      git:
 
     - title: "On the conditions for integrating deep learning into the study of visual politics"
       type: "in-proceedings"
       author: Matteo Magnani and Alexandra Segerberg
       conference: "13th ACM Web Science Conference (WebSci)"
       year: 2021
-      doi:
-      fulltext:
-      git:
+      pdf: /assets/papers/21websci.pdf
 
 - year: 2020
   publications:
@@ -129,9 +125,6 @@
       volume: 10
       number: 1
       year: 2020
-      doi:
-      fulltext:
-      git:
 
     - title: "Multilayer network simplification: Approaches, models and methods"
       type: "article"
@@ -222,9 +215,7 @@
       conference: "10th International Conference (SocInfo)"
       year: 2018
       pages: "212-227"
-      doi:
-      fulltext:
-      git:
+      pdf: /assets/papers/18socinfo-viz.pdf
 
     - title: "From Interaction to Participation: The Role of the Imagined Audience in Social Media Community Detection and an Application to Political Communication on Twitter"
       type: "in-proceedings"
@@ -242,9 +233,7 @@
       conference: "10th International Conference on Social Informatics (SocInfo2018)"
       year: 2018
       pages: "15-28"
-      doi:
-      fulltext:
-      git:
+      pdf: /assets/papers/18socinfo-cp.pdf
 
     - title: "Foundations of Temporal Text Networks"
       type: "article"
