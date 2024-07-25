@@ -84,4 +84,15 @@
       funder: "AccelNet-MultiNet"
       years: "2025"
       description: "Research stay at Indiana University (recipient: Georgios Panayiotou)."
-
+      
+    - title: "Research stay"
+      id: ""
+      funder: "Karl Staaff Foundation"
+      years: "2025"
+      description: "Research stay at New York University (recipient: Matias Piqueras)."
+   
+    - title: "Research stay"
+      id: ""
+      funder: "SoBigData"
+      years: "2024"
+      description: "University of Pisa (recipient: Georgios Panayiotou)."
