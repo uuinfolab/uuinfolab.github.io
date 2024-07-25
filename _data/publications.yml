@@ -84,9 +84,7 @@
       volume: 6
       number:
       year: 2021
-      doi:
-      fulltext:
-      git:
+      pdf: /assets/papers/21ans.pdf
       
     - title: "Analysis of Multiplex Social Networks with R"
       type: "article"
@@ -96,9 +94,7 @@
       volume: 98
       number: 8
       year: 2021
-      doi:
-      fulltext:
-      git:
+      pdf: /assets/papers/21jss.pdf
 
     - title: "Community Detection in Multiplex Networks"
       type: "article"
@@ -107,6 +103,7 @@
       volume: 54
       number:  3
       year: 2021
+      pdf: /assets/papers/21csur.pdf
 
     - title: "On the conditions for integrating deep learning into the study of visual politics"
       type: "in-proceedings"
@@ -181,9 +178,7 @@
       volume: 2
       number: 3
       year: 2019
-      doi:
-      fulltext:
-      git:
+      pdf: /assets/papers/19tosc.pdf
 
     - title: "Metrics for Temporal Text Networks"
       type: "chapter"
@@ -223,9 +218,7 @@
       conference: "IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)"
       year: 2018
       pages: "531-534"
-      doi:
-      fulltext:
-      git:
+      pdf: /assets/papers/18asonam.pdf
 
     - title: "Partial and Overlapping Community Detection in Multiplex Social Networks"
       type: "in-proceedings"
@@ -242,9 +235,7 @@
       volume: 3
       number: 25
       year: 2018
-      doi:
-      fulltext:
-      git:
+      pdf: /assets/papers/18ans.pdf
 
 - year: 2017
   publications:
