@@ -8,7 +8,7 @@ header:
 toc: true
 ---
 
-## Multilayer network data
+# Multilayer network data
 
 {% for dataset in site.data.data.multilayer %}
 

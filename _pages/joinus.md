@@ -8,27 +8,27 @@ header:
 toc: true
 ---
 
-## Open positions
+# Open positions
 
-### Postdoc
+## Postdoc
 
 No currently open position.
 
-### PhD
+## PhD
 
 No currently open positions.
 
 [//]: # (- We have an open PhD position on <a href="https://uu.varbi.com/en/what:job/jobID:727423/" target="_new">social cybersecurity</a>.)
 
-### Research assistant
+## Research assistant
 
 No currently open positions.
 
-### Internship
+## Internship
 
 No currently open positions.
 
-### Thesis projects
+## Thesis projects
 
 At our lab we host a limited number of thesis projects, listed below. Those working on these projects become temporary members of the lab, are expected to complete the project under the agreed time constraints (typically 2.5 months for bachelors and 5 months for masters) and to actively participate in the lab activities, so that they can contribute to information sharing and knowledge development. Bachelor/Master students are expected to work full time on the project, that is, around 40 hours per week. A high degree of independence, ambition and linguistic skills (English) are necessary, as all projects are part of the research activities of the lab and are expected to contribute to it with new knowledge, algorithms, code, etc.
 
@@ -38,15 +38,15 @@ No currently open thesis project.
 
 [//]: # (- **Generation of large-scale social networks of formal ties** In the Data Mining course (prerequisite for this project), you have seen the ER model, which can be used to generate simple graphs. This is a fundamental model to generate random (and thus unrealistic) networks, that can be used to understand whether what we see in real networks is a result of randomness or an actual signal to be analysed. The objective of this project is to define and implement a model that can generate realistic data about formal social ties (that is: family ties, same-workplace, same-school, same-neighborhood, etc.). The work will start with a kind of “multilayered” ER-like model, and define (and implement) a sequence of more and more realistic models by adding non-random assumptions about the distribution of the ties (just as an example, things such as: higher probability of having family ties when people live close by and go to the same school, then longitudinal information about how links evolve in time, etc.). A computational challenge is that this model must be able to generate large data – with 10 to 20 million individuals and billions of ties. This is part of a project where we use registry data to generate population-scale social networks to study segregation and other sociological problems. We need this work both to share data (because we are of course not allowed to share the real data), and to make hypotheses about how such data is generated. For info, contact Matteo.)
 
-## Before joining
+# Before joining
 
 This section collects some information about life in Sweden and about how we work, that can be useful if you are interested in joining the lab.
 
-### Working and living in Sweden
+## Working and living in Sweden
 
 Sweden is a fantastic place for living and working. Swedes are friendly and speak excellent English.  The quality of life is high, with a strong emphasis on outdoor activities.  The Swedish working climate emphasises an open atmosphere, with active discussions involving both junior and senior staff.  Spouses of employees are entitled to work permits. Healthcare is free after a small co-pay and the university subsidises athletic costs, such as a gym membership.  The parental benefits in Sweden are among the best in the world, including extensive parental leave (for both parents), paid time off to care for sick children, and affordable daycare.  For more information, be sure to read <a href="https://www.uu.se/en/about-uu/join-us/advantages" target="_new">Why choose Sweden?</a> and <a href="https://www.uu.se/en/about-uu/join-us/why-uppsala-university" target="_new">Why choose Uppsala University?</a>.
 
-### Expected availability from Infolab members
+## Expected availability from Infolab members
 
 Given the creative nature of part of our work, Infolab members are generally free to work when and where it best fits them, compatibly with tasks requiring presence (e.g., teaching) and regulations that may be enforced by the Department or University.
 
@@ -54,7 +54,7 @@ At the same time, everyone is expected to contribute to the lab, which implies b
 
 Lab members are free to take time to work offline. In particular, it is not necessary to be continuously online on our Slack space. Checking the Slack at least once a day is however expected, and if one cannot be online for a few days for any reason (e.g. holidays) it is good practice to inform the other lab members.
 
-### Research quality at the Infolab
+## Research quality at the Infolab
 
 While "quality" is a subjective term, and we expect lab members to reflect about this concept and adopt their own definitions of quality, we also have some guidelines to ensure that some common ground is established. In particular, we want our research to be based on appropriate methods, clearly and transparently communicated, developed with ethical and societal awareness, replicable (when possible), and usable by others.
 
@@ -64,13 +64,13 @@ Members of the lab should feel a responsibility of getting and receiving feedbac
 
 At submission time, for all products containing experiments the code to replicate the experiments should be made available in a repository in the Infolab's git workspace, in an easy-to-execute format (with exceptions, for example double-blind review processes).
 
-### Authorship
+## Authorship
 
 Each research activity must have a clear list of authors. At the Infolab we define authors as in: "each author is expected to have made substantial contributions to the conception or design of the work; or the acquisition, analysis, or interpretation of data; or the creation of new software used in the work; or have drafted the work or substantively revised it; AND to have approved the submitted version (and any substantially modified version that involves the author’s contribution to the study); AND to have agreed both to be personally accountable for the author’s own contributions and to ensure that questions related to the accuracy or integrity of any part of the work, even ones in which the author was not personally involved, are appropriately investigated, resolved, and the resolution documented in the literature."[^1]
 
 [^1]: Transparency in authors’ contributions and responsibilities to promote integrity in scientific publication. Marcia K. McNutt, Monica Bradford, Jeffrey M. Drazen, Brooks Hanson, BobHoward, Kathleen Hall Jamieson, Véronique Kiermer, Emilie Marcus, Barbara Kline Pope, Randy Schekman, Sowmya Swaminathan, Peter J. Stang, Inder M. Verma. Proceedings of the National Academy of Sciences Mar 2018, 115 (11) 2557-2560; DOI:10.1073/pnas.1715374115
 
-### Start-up checklist
+## Start-up checklist
 
 When joining the lab:
 

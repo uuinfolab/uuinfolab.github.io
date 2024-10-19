@@ -10,11 +10,28 @@ toc: true
 
 At the Infolab we do research on all aspects of social data science: we define mathematical *models* to represent contemporary social data, so that it can be processed by computers, we develop computational analysis *methods*, we implement our models and methods in publicly available *software*, and we *apply* them to perform empirical social data analyses. These applications allow us to test our theoretical advances and provide requirements for new developments.
 
-## Research areas
+# Research areas
 
-Under construction.
+{% for area in site.data.areas %}
+<article class="research-box">
+<a href="{{ area.url }}" class="research-text research-box">
+     <figure class="no-margins">
+         <div class="research-box">
+             <img src="{{ area.img }}" class="research-img" alt="Feature-rich networks"/>
+         </div>
+     </figure>
+     <div class="pull-up">
+         <h2 class="text-size-30 text-in-img margin-b research-header">{{ area.name }}</h2>
+         <div class="margin-b">
+         {{ area.description }}
+         </div>
+     </div>
+</a>
+</article>
+{% endfor %}
+               
 
-## Sponsors
+# Sponsors
 
 The Infolab is or has been funded by the following projects:
 
