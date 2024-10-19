@@ -2,7 +2,21 @@
 
 - year: 2024
   publications:
+  
+    - title: "Do you see what I see? Emotional reaction to visual content in the online debate about climate change. accepted for publication in Environmental Communication"
+      type: "article"
+      author: Luca Rossi, Alexandra Segerberg,  Matteo Magnani, Claudia Angelini, Annamaria Carissimo
+      journal: "Environmental Communication"
+      volume: "--"
+      number: "--"
+      year: accepted for publication
  
+    - title: "Fair-mod: Fair Modular Community Detection"
+      author: Georgios Panayiotou, Matteo Magnani
+      conference: "Complex Networks"
+      year: 2024
+      material: https://github.com/uuinfolab/paper.24_ComplexNetworks_Fair-Mod.git
+      
     - title: "INet for Network Integration"
       type: "article"
       author: Valeria Policastro, Matteo Magnani, Claudia Angelini, Annamaria Carissimo

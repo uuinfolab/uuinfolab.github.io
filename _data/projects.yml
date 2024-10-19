@@ -35,7 +35,13 @@
 
 - scope: "National research projects and funded collaborations"
   projects:
-
+  
+    - title: "eSSENCE"
+      id: ""
+      funder: "Swedish Government"
+      years: "2024-2029"
+      description: "Partial funding for a PhD student position on the development of e-science methods for social cybersecurity."
+        
     - title: "eSSENCE"
       id: ""
       funder: "Swedish Government"
@@ -51,6 +57,12 @@
 
 - scope: "Funding from Uppsala University"
   projects:
+    
+    - title: "Graduate school in cybersecurity"
+      id: ""
+      funder: "Department of Information technology"
+      years: "2024-2029"
+      description: "Partial funding for a PhD student position in social cybersecurity."
     
     - title: "AI4Research Sabbatical"
       id: ""
