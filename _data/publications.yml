@@ -12,8 +12,9 @@
       year: accepted for publication
  
     - title: "Fair-mod: Fair Modular Community Detection"
+      type: "in-proceedings"
       author: Georgios Panayiotou, Matteo Magnani
-      conference: "Complex Networks"
+      conference: "International conference on complex networks and their applications"
       year: 2024
       material: https://github.com/uuinfolab/paper.24_ComplexNetworks_Fair-Mod.git
       
