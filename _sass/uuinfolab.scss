@@ -47,3 +47,107 @@ div.stop {
 clear: both;
 }
 
+.research-box figure {
+    max-height: 167px;
+    overflow: hidden;
+    position: relative;
+}
+
+.research-box {
+    position: relative;
+}
+
+.research-box:hover .research-box:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+
+.text-in-img {
+background-color: darkred;
+color: white;
+display: inline;
+line-height: 1.4em;
+padding: 0px 10px;
+}
+
+.text-size-30 {
+    font-size: 30px;
+    line-height: 40px;
+}
+
+.research-text {
+    background-color: #fff;
+    color: #41444d;
+}
+
+.research-img {
+    width: 100%;
+    height: auto;
+}
+
+.no-margins {
+    margin: 0;
+}
+
+.pull-up {
+    margin-top: -30px;
+}
+
+.research-header {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.margin-b {
+    margin-bottom: 17px;
+}
+
+
+research-link {
+    margin: 30px;
+    padding: 30px;
+}
+
+
+
+
+
+
+box-around {
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    overflow: hidden;
+}
+
+
+
+a {
+    text-decoration: none;
+    color: #ce0b1e;
+}
+
+h2 {
+    position: relative;
+    font-weight: normal;
+    display: block;
+    line-height: 22px;
+    font-size: 17px;
+    padding: 0;
+    color: inherit;
+    margin: 0;
+}
+
+
+
+
+
+
