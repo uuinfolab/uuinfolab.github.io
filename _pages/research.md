@@ -21,7 +21,7 @@ At the Infolab we do research on all aspects of social data science: we define m
          </div>
      </figure>
      <div class="pull-up">
-         <h2 class="text-size-30 text-in-img margin-b research-header">{{ area.name }}</h2>
+         <h2 class="research-text-size text-in-img research-header">{{ area.name }}</h2>
          <div class="margin-b">
          {{ area.description }}
          </div>
