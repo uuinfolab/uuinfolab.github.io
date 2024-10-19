@@ -13,14 +13,6 @@ At the Infolab we define mathematical *models* to represent contemporary social 
 ## Research areas
 
 {% for area in site.data.areas %}
-
-**{{ area.title }}**<br/>
-Funding from: {{ proj.funder }}<br/>
-Period: {{ proj.years }}<br/>
-In short: *{{ proj.description }}*<br/>
-{% endfor %}
-
-
 <article class="research-box">
 <a href="{{ area.url }}" class="research-text research-box">
      <figure class="no-margins">
