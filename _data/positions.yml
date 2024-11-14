@@ -1,7 +1,7 @@
 # Positions
       
 - level: "PhD"
-  status: "open"
+  status: "closed"
   positions:
 
     - title: ""
@@ -28,7 +28,7 @@
       contact: "Matteo Magnani"
       
 - level: "Bachelor theses"
-  status: "open"
+  status: "closed"
   positions:
 
     - title: ""
