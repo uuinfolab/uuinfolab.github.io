@@ -1,6 +1,7 @@
 # Positions
       
-- level: "PhD students"
+- level: "PhD"
+  status: "open"
   positions:
 
     - title: ""
@@ -11,6 +12,7 @@
       url: ""
 
 - level: "Master's theses"
+  status: "open"
   positions:
 
     - title: "A comparative study of fairness-aware community detection methods"
@@ -26,6 +28,7 @@
       contact: "Matteo Magnani"
       
 - level: "Bachelor theses"
+  status: "open"
   positions:
 
     - title: ""

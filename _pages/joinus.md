@@ -16,6 +16,9 @@ toc: true
 {% for poslist in site.data.positions %}
 ## {{ poslist.level }}
 
+{% if poslist.status == "open" %}
+{% endfor %}
+
 {% for pos in poslist.positions %}
 {% if pos.status == "open" %}
 **{{ pos.title }}**<br/>
@@ -27,6 +30,8 @@ Contact: {{ pos.contact }}<br/>
 {% endfor %}
 
 {% endfor %}
+{% else %}No open positions
+{% endif %}
 
 # Before joining
 
@@ -50,7 +55,7 @@ While "quality" is a subjective term, and we expect lab members to reflect about
 
 To achieve this, research at Infolab is organised into *research activities*. A research activity is anything leading to a published article, a grant proposal, a PhD dissertation, an undergraduate thesis, research software, etc. Each research activity is led by a member of the lab, who is the *contact author* and is responsible for the research to advance and for its quality. Under normal circumstances, the contact author should be available to answer questions about the activity and its outcomes for at least two years after the outcome has been made public, even in case of a change of affiliation.
 
-Members of the lab should feel a responsibility of getting and receiving feedback from other members. At the beginning of a new research activity, the (contact) author(s) should pitch the idea to the other lab members, who should be available to provide constructive feedback. Before submitting a paper or research proposal the authors are invited to share it with the other lab members, who should be available to provide constructive feedback. Getting feedback even earlier is also encouraged, although not expected.
+Members of the lab should feel a responsibility of getting and receiving feedback from other members. At the beginning of a new research activity, the (contact) author(s) is encouraged to pitch the idea to other lab members, who should be available to provide constructive feedback. Before submitting a paper or research proposal the authors are invited to share it with the other lab members, who should be available to provide constructive feedback. Getting feedback even earlier is also encouraged, although not expected.
 
 At submission time, for all products containing experiments the code to replicate the experiments should be made available in a repository in the Infolab's git workspace, in an easy-to-execute format (with exceptions, for example double-blind review processes).
 
@@ -69,4 +74,4 @@ When joining the lab:
     * Slack (we do not normally use email for communication).
     * The lab's Git space (please provide your git account).
     * Group storage space.
-1. Follow the Twitter and Facebook accounts of the lab, if you use these social media for work.
+1. Follow the LinkedIn, X, and Facebook accounts of the lab, if you use these social media for work.
