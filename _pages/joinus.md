@@ -20,7 +20,8 @@ toc: true
 
 {% for pos in poslist.positions %}
 {% if pos.status == "open" %}
-**{{ pos.title }}**<br/>
+### {{ pos.title }}
+
 **Description:** {{ pos.description }}<br/>
 **Requirements:** {{ pos.requirements }}<br/>
 **Contact:** {{ pos.contact }}<br/>
