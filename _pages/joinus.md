@@ -17,7 +17,6 @@ toc: true
 ## {{ poslist.level }}
 
 {% if poslist.status == "open" %}
-{% endfor %}
 
 {% for pos in poslist.positions %}
 {% if pos.status == "open" %}
