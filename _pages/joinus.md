@@ -24,6 +24,9 @@ Requirements: {{ pos.author }}<br/>
 Contact: {{ pos.author }}<br/>
 {% if pos.url != nil %}<a href="{{ pos.url }}">More info</a>{% endif %}
 {% endif %}
+{% endfor %}
+
+{% endfor %}
 
 # Before joining
 
