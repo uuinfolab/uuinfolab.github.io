@@ -10,29 +10,24 @@ toc: true
 
 # Open positions
 
-## Postdoc
+[//]: # (At our lab we host a limited number of thesis projects, listed below. Those working on these projects become temporary members of the lab, are expected to complete the project under the agreed time constraints (typically 2.5 months for bachelors and 5 months for masters) and to actively participate in the lab activities, so that they can contribute to information sharing and knowledge development. Bachelor/Master students are expected to work full time on the project, that is, around 40 hours per week. A high degree of independence, ambition and linguistic skills (English) are necessary, as all projects are part of the research activities of the lab and are expected to contribute to it with new knowledge, algorithms, code, etc. If you are interested, please send an email to the person responsible for the project incuding your transcript, a CV, and a short motivation.)
 
-No currently open position.
 
-## PhD
+{% for poslist in site.data.positions %}
+## {{ poslist.level }}
 
-No currently open positions.
+{% for pos in poslist.positions %}
+{% if pos.status == "open" %}
+**{{ pos.title }}**<br/>
+Description: {{ pos.author }}<br/>
+Requirements: {{ pos.author }}<br/>
+Contact: {{ pos.author }}<br/>
+{% if pos.url != nil %}<a href="{{ pos.url }}">More info</a>{% endif %}
+{% endif %}
 
-[//]: # (- We have an open PhD position on <a href="https://uu.varbi.com/en/what:job/jobID:727423/" target="_new">social cybersecurity</a>.)
+# Before joining
 
-## Research assistant
-
-No currently open positions.
-
-## Internship
-
-No currently open positions.
-
-## Thesis projects
-
-At our lab we host a limited number of thesis projects, listed below. Those working on these projects become temporary members of the lab, are expected to complete the project under the agreed time constraints (typically 2.5 months for bachelors and 5 months for masters) and to actively participate in the lab activities, so that they can contribute to information sharing and knowledge development. Bachelor/Master students are expected to work full time on the project, that is, around 40 hours per week. A high degree of independence, ambition and linguistic skills (English) are necessary, as all projects are part of the research activities of the lab and are expected to contribute to it with new knowledge, algorithms, code, etc.
-
-If you are interested, please send an email to the person responsible for the project incuding your transcript, a CV, and a short motivation.
+This section collects some information about life in Sweden and about how we work, that can be useful if you are interested in joining the lab as a PhD student or postdoc.
 
 - **A comparative study of fairness-aware community detection methods** With the growing interest in the field of algorithmic fairness, various approaches have been recently introduced to partition graphs into clusters while simultaneously satisfying fairness constraints. This project aims to study and experimentally compare these methods, their scalability, as well as the effect of different demographic fairness functions. For info, contact Georgios: georgios.panayiotou@it.uu.se
 
