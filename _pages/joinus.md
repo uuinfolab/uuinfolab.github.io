@@ -22,16 +22,17 @@ toc: true
 {% for pos in poslist.positions %}
 {% if pos.status == "open" %}
 **{{ pos.title }}**<br/>
-Description: {{ pos.description }}<br/>
-Requirements: {{ pos.requirements }}<br/>
-Contact: {{ pos.contact }}<br/>
+**Description:** {{ pos.description }}<br/>
+**Requirements:** {{ pos.requirements }}<br/>
+**Contact:** {{ pos.contact }}<br/>
 {% if pos.url != nil %}<a href="{{ pos.url }}">More info</a>{% endif %}
 {% endif %}
-{% endfor %}
 
 {% endfor %}
 {% else %}No open positions
 {% endif %}
+
+{% endfor %}
 
 # Before joining
 
