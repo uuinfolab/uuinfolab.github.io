@@ -14,6 +14,24 @@
 - level: "Master's theses"
   status: "open"
   positions:
+      - title: "Analyzing Intersectional Bias in LLM-based Recommender Systems."
+      status: "open"
+      description: "Recently, Recommendation Systems (RSs) have leveraged Large Language Models (LLMs) to enhance personalized recommendations. However, LLMs can perpetuate social biases, raising concerns about their trustworthiness in RSs. RSs are widely used in sectors like job markets, finance, and medicine that critically need fair decision-making. While fairness in traditional RSs has been explored, the trustworthiness of LLM-based RSs remains understudied. Most existing research focuses on bias related to specific group identities such as race or gender. However, recent work emphasizes the need to address “Intersectional Fairness”, where interactions across multiple identity dimensions result in unique discrimination for subgroups. This project aims to comprehensively analyze intersectional biases in both traditional and LLM-based RSs, with a focus on critical applications such as news recommendations."
+      requirements: "Mining of Social Data, Deep Learning, Advanced Probabilistic Machine Learning (meriting)"
+      contact: "Ece Calikus"
+
+    - title: "Exploring the Power of LLM-Generated Fake News with the Focus on Scientific Discussions"
+      status: "open"
+      description: "Advances in Large Language Models (LLMs) have enabled malicious actors to generate fake content that mimics the style of trustworthy news sources. Recent studies have revealed that LLM-generated fake news can closely resemble reliable sources of information, reducing the effectiveness of state-of-the-art text-based misinformation detection tools. The rise of misinformation and pseudoscience in scientific discussions on topics such as vaccines, medicine, and climate change is an important societal problem. These beliefs, theories, or practices are disguised as scientific but lack empirical evidence, rigorous methodology, and adherence to the scientific method. They can mislead individuals by presenting unverified or disproven claims as factual, undermining legitimate scientific practices. This project will implement a prompt-based approach to generate realistic fake content related to scientific topics and investigate whether state-of-the-art methods can detect them."
+      requirements: "Mining of Social Data, Deep Learning, Advanced Probabilistic Machine Learning (meriting)"
+      contact: "Ece Calikus"
+
+    - title: "Interpretable Anomaly Detection for Tabular Data Using Diffusion Models"
+      status: "open"
+      description: "This project aims to develop interpretable anomaly detection techniques for tabular data using diffusion models, leveraging their robust generative capabilities to accurately model complex data distributions. Unlike traditional methods, diffusion models offer a unique approach by gradually transforming noise into structured data, enabling a precise representation of normal behavior. By learning this distribution, we will detect anomalies as significant deviations from the expected patterns. The focus on interpretability ensures that detected anomalies can be understood and contextualized, providing meaningful insights and explanations critical for decision-making in high-stakes domains such as finance, healthcare, and industrial monitoring."
+      requirements: "Mining of Social Data, Deep Learning, Advanced Probabilistic Machine Learning (meriting),  Advanced Deep Learning for Image Processing (meriting)"
+      contact: "Ece Calikus"
+      
     - title: "Analyzing the Downstream Implications of Pretrained Image Representations in Visual Topic Models"
       status: "open"
       description: "This project investigates how the choice of pretrained image representation influences the performance and interpretability of visual topic models, focusing on feature extractors trained with different objectives (e.g., language-supervised, self-supervised, or vLLM's). It examines the impact on model fit, topic coherence, and the labels assigned to discovered topics."
