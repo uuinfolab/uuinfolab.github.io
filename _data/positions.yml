@@ -39,7 +39,7 @@
       contact: "Matias Piqueras"
       
     - title: "A comparative study of fairness-aware community detection methods"
-      status: "open"
+      status: "closed"
       description: "With the growing interest in the field of algorithmic fairness, various approaches have been recently introduced to partition graphs into clusters while simultaneously satisfying fairness constraints. This project aims to study and experimentally compare these methods, their scalability, as well as the effect of different demographic fairness functions."
       requirements: "Participation in course: Mining of Social Data"
       contact: "Georgios Panayiotou"
