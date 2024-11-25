@@ -12,10 +12,10 @@
       url: ""
 
 - level: "Master's theses"
-  status: "closed"
+  status: "open"
   positions:
     - title: "Analyzing Intersectional Bias in LLM-based Recommender Systems."
-      status: "open"
+      status: "closed"
       description: "Recently, Recommendation Systems (RSs) have leveraged Large Language Models (LLMs) to enhance personalized recommendations. However, LLMs can perpetuate social biases, raising concerns about their trustworthiness in RSs. RSs are widely used in sectors like job markets, finance, and medicine that critically need fair decision-making. While fairness in traditional RSs has been explored, the trustworthiness of LLM-based RSs remains understudied. Most existing research focuses on bias related to specific group identities such as race or gender. However, recent work emphasizes the need to address “Intersectional Fairness”, where interactions across multiple identity dimensions result in unique discrimination for subgroups. This project aims to comprehensively analyze intersectional biases in both traditional and LLM-based RSs, with a focus on critical applications such as news recommendations."
       requirements: "Mining of Social Data, Deep Learning, Advanced Probabilistic Machine Learning (meriting)"
       contact: "Ece Calikus"
