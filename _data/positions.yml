@@ -12,7 +12,7 @@
       url: ""
 
 - level: "Master's theses"
-  status: "open"
+  status: "closed"
   positions:
     - title: "Analyzing Intersectional Bias in LLM-based Recommender Systems."
       status: "open"
@@ -21,7 +21,7 @@
       contact: "Ece Calikus"
 
     - title: "Exploring the Power of LLM-Generated Fake News with the Focus on Scientific Discussions"
-      status: "open"
+      status: "closed"
       description: "Advances in Large Language Models (LLMs) have enabled malicious actors to generate fake content that mimics the style of trustworthy news sources. Recent studies have revealed that LLM-generated fake news can closely resemble reliable sources of information, reducing the effectiveness of state-of-the-art text-based misinformation detection tools. The rise of misinformation and pseudoscience in scientific discussions on topics such as vaccines, medicine, and climate change is an important societal problem. These beliefs, theories, or practices are disguised as scientific but lack empirical evidence, rigorous methodology, and adherence to the scientific method. They can mislead individuals by presenting unverified or disproven claims as factual, undermining legitimate scientific practices. This project will implement a prompt-based approach to generate realistic fake content related to scientific topics and investigate whether state-of-the-art methods can detect them."
       requirements: "Mining of Social Data, Deep Learning, Advanced Probabilistic Machine Learning (meriting)"
       contact: "Ece Calikus"
