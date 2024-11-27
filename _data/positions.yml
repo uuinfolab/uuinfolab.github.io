@@ -27,7 +27,7 @@
       contact: "Ece Calikus"
 
     - title: "Interpretable Anomaly Detection for Tabular Data Using Diffusion Models"
-      status: "open"
+      status: "closed"
       description: "This project aims to develop interpretable anomaly detection techniques for tabular data using diffusion models, leveraging their robust generative capabilities to accurately model complex data distributions. Unlike traditional methods, diffusion models offer a unique approach by gradually transforming noise into structured data, enabling a precise representation of normal behavior. By learning this distribution, we will detect anomalies as significant deviations from the expected patterns. The focus on interpretability ensures that detected anomalies can be understood and contextualized, providing meaningful insights and explanations critical for decision-making in high-stakes domains such as finance, healthcare, and industrial monitoring."
       requirements: "Mining of Social Data, Deep Learning, Advanced Probabilistic Machine Learning (meriting),  Advanced Deep Learning for Image Processing (meriting)"
       contact: "Ece Calikus"
