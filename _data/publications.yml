@@ -2,14 +2,18 @@
 
 - year: 2024
   publications:
-    
-    - title: "Current challenges in multilayer network engineering"
+
+  - title: "Current challenges in multilayer network engineering"
+      type: "article"
       author: Georgios Panayiotou, Matteo Magnani, Bruno Pinaud
       journal: "Applied Network Science"
-      volume: "9"
-      pdf: https://link.springer.com/article/10.1007/s41109-024-00686-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241210&utm_content=10.1007/s41109-024-00686-4
+      volume: 9
+      number: 75
       year: 2024
-      
+      doi: https://doi.org/10.1007/s41109-024-00686-4
+      pdf: https://link.springer.com/article/10.1007/s41109-024-00686-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241210&utm_content=10.1007/s41109-024-00686-4
+      material: https://github.com/uuinfolab/paper.24_ApplNetSci_MLN-Engineering-Challenges
+
     - title: "Do you see what I see? Emotional reaction to visual content in the online debate about climate change."
       type: "article"
       author: Luca Rossi, Alexandra Segerberg, Luigi Arminio, Matteo Magnani
