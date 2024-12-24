@@ -33,7 +33,7 @@
       contact: "Ece Calikus"
       
     - title: "Analyzing the Downstream Implications of Pretrained Image Representations in Visual Topic Models"
-      status: "open"
+      status: "closed"
       description: "This project investigates how the choice of pretrained image representation influences the performance and interpretability of visual topic models, focusing on feature extractors trained with different objectives (e.g., language-supervised, self-supervised, or vLLM's). It examines the impact on model fit, topic coherence, and the labels assigned to discovered topics."
       requirements: "Mining of Social Data, Introduction to Image Analysis (meriting), Advanced Deep Learning for Image Processing (meriting), Advanced Probabilistic Machine Learning (meriting)"
       contact: "Matias Piqueras"
