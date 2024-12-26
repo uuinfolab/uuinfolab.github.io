@@ -3,7 +3,7 @@
 - year: 2024
   publications:
 
-  - title: "Current challenges in multilayer network engineering"
+    - title: "Current challenges in multilayer network engineering"
       type: "article"
       author: Georgios Panayiotou, Matteo Magnani, Bruno Pinaud
       journal: "Applied Network Science"
