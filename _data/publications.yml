@@ -11,7 +11,6 @@
       number: 75
       year: 2024
       doi: https://doi.org/10.1007/s41109-024-00686-4
-      pdf: https://link.springer.com/article/10.1007/s41109-024-00686-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241210&utm_content=10.1007/s41109-024-00686-4
       material: https://github.com/uuinfolab/paper.24_ApplNetSci_MLN-Engineering-Challenges
 
     - title: "Do you see what I see? Emotional reaction to visual content in the online debate about climate change."
@@ -19,7 +18,7 @@
       author: Luca Rossi, Alexandra Segerberg, Luigi Arminio, Matteo Magnani
       journal: "Environmental Communication"
       year: 2024
-      pdf: https://doi.org/10.1080/17524032.2024.2420787
+      doi: https://doi.org/10.1080/17524032.2024.2420787
  
     - title: "Fair-mod: Fair Modular Community Detection"
       type: "in-proceedings"
@@ -32,18 +31,17 @@
       type: "article"
       author: Valeria Policastro, Matteo Magnani, Claudia Angelini, Annamaria Carissimo
       journal: "Computational Statistics"
-      volume: "--"
-      number: "--"
       year: 2024
-      pdf: https://link.springer.com/article/10.1007/s00180-024-01536-8
+      doi: https://doi.org/10.1007/s00180-024-01536-8
       material: https://github.com/ValeriaPolicastro/INet-Tool
       
     - title: "Improved Visual Saliency of Graph Clusters with Orderable Node-Link Layouts"
-      type: "in-proceedings"
+      type: "article"
       author: Nora Al-Naami, Nicolas Médoc, Matteo Magnani, Mohammad Ghoniem
-      conference: "IEEE Vis"
+      journal: "IEEE Transactions on Visualization and Computer Graphics"
+      volume: 31
       year: 2024
-      pdf: https://www.computer.org/csdl/journal/tg/2025/01/10676022/209oroIXubS
+      doi: https://doi.ieeecomputersociety.org/10.1109/TVCG.2024.3456167
       material: https://osf.io/kc3dg/
       
 - year: 2023
@@ -66,6 +64,7 @@
       volume: 34
       number: 2
       year: 2023
+      doi: https://doi.org/10.1177/09579265221117014
     
     - title: "Modularity-based selection of the number of slices in temporal network clustering"
       type: "chapter"
