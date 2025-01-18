@@ -12,7 +12,7 @@
       url: ""
 
 - level: "Master's theses"
-  status: "open"
+  status: "closed"
   positions:
     - title: "Analyzing Intersectional Bias in LLM-based Recommender Systems."
       status: "closed"
