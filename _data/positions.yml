@@ -1,15 +1,15 @@
 # Positions
       
 - level: "PhD"
-  status: "closed"
+  status: "open"
   positions:
 
-    - title: ""
-      status: "closed"
-      description: ""
+    - title: "Spreading phenomena, resilience and clustering in probabilistic graphs applied to disaster science"
+      status: "open"
+      description: "This is part of the yearly call for PhD positions in interdisciplinary mathematics. In the application you can specify the projects you are interested in, and ours is described <a href='https://www.uu.se/download/18.591e3881194d86d5fa3383e7/1739536084292/Rohner-Magnani-Skerman.pdf'>here</a>"
       requirements: ""
-      contact: ""
-      url: ""
+      contact: "Christian Rohner"
+      url: "https://uu.varbi.com/en/what:job/jobID:799399/"
 
 - level: "Master's theses"
   status: "closed"
