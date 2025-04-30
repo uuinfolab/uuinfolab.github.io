@@ -3,14 +3,34 @@
 - year: 2025
   publications:
 
-    - title: "Visual digital intermediaries and global climate communication: is climate change still a distant problem on YouTube?"
+    - title: "Climate Clash: A Multimodal Analysis of Movement - Countermovement Interactions on Digital Sphere"
       type: "article"
-      author: Alexandra Segerberg, Matteo Magnani
-      journal: "Plos ONE"
+      author: Katrin Uba, Alexandra Segerberg, Matteo Magnani
+      journal: "American Behavioral Scientist"
       volume: Forthcoming
       number:
       year: 2025
       doi:
+      material:
+
+    - title: "On the accurate computation of expected modularity in probabilistic networks"
+      type: "article"
+      author: Xin Shen, Matteo Magnani, Christian Rohner, Fiona Skerman
+      journal: "Scientific Reports"
+      volume: Forthcoming
+      number:
+      year: 2025
+      doi:
+      material: https://github.com/XINS3/Expected-modularity-calculation-over-uncertain-graph
+
+    - title: "Visual digital intermediaries and global climate communication: is climate change still a distant problem on YouTube?"
+      type: "article"
+      author: Alexandra Segerberg, Matteo Magnani
+      journal: "Plos ONE"
+      volume: 20
+      number: 4
+      year: 2025
+      doi: https://doi.org/10.1371/journal.pone.0318338
       material: https://osf.io/gmb7n/?view_only=532665876f5046f69fefbf2a649c9000
 
 - year: 2024
