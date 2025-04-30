@@ -46,13 +46,23 @@
       doi: https://doi.org/10.1007/s41109-024-00686-4
       material: https://github.com/uuinfolab/paper.24_ApplNetSci_MLN-Engineering-Challenges
 
-    - title: "Do you see what I see? Emotional reaction to visual content in the online debate about climate change."
+    - title: "Do you see what I see? Emotional reaction to visual content in the online debate about climate change"
       type: "article"
       author: Luca Rossi, Alexandra Segerberg, Luigi Arminio, Matteo Magnani
       journal: "Environmental Communication"
       year: 2024
       doi: https://doi.org/10.1080/17524032.2024.2420787
  
+    - title: "Structure and dynamics of growing networks of Reddit threads"
+      type: "article"
+      author: Diletta Goglia, Davide Vega
+      journal: "Applied Network Science"
+      volume: 9
+      number: 48
+      year: 2024
+      doi: https://doi.org/10.1007/s41109-024-00654-y
+      material:
+
     - title: "Fair-mod: Fair Modular Community Detection"
       type: "in-proceedings"
       author: Georgios Panayiotou, Matteo Magnani
