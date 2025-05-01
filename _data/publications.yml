@@ -3,6 +3,13 @@
 - year: 2025
   publications:
 
+    - title: "Towards intersectional fairness in community detection"
+      type: "in-proceedings"
+      author: Georgios Panayiotou, Matteo Magnani, Ece Calikus
+      conference: "DETOX workshop @ ICWSM"
+      year: 2025
+      material:
+ 
     - title: "Climate Clash: A Multimodal Analysis of Movement - Countermovement Interactions on Digital Sphere"
       type: "article"
       author: Katrin Uba, Alexandra Segerberg, Matteo Magnani
