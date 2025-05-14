@@ -35,3 +35,9 @@
   frequency: "Every second year"
   url: "https://uuinfolab.github.io/courses/reviewing_phd_23"
   description: "This course is about the theory and practice of reviewing scientific papers."
+
+- name: "Large Language Models: Foundations and Applications"
+  level: "PhD"
+  frequency: "One instance currently planned"
+  url: "https://uuinfolab.github.io/courses/llm2025"
+  description: "This course provides a comprehensive overview of Large Language Models, from foundational theory to applications in trending research directions."
