@@ -11,10 +11,10 @@
       year: 2025
       doi:
       material:
-      
+
     - title: "The Seven Roles of Generative Artificial Intelligence: Potential and Pitfalls in Combating Misinformation"
       author: Thomas Nygren, Jon Roozenbeek, Nicolas Fay, Emily Spearing, Davide Vega
-      journal: "Behavioral Science & Policy"
+      journal: "Behavioral Science and Policy"
       volume: Forthcoming
       number:
       year: 2025
@@ -54,6 +54,16 @@
       author: Georgios Panayiotou, Matteo Magnani, Ece Calikus
       conference: "DETOX workshop @ ICWSM"
       year: 2025
+      material:
+      
+
+    - title: "Leveraging VLLMs for Visual Clustering: Image-to-text mapping shows increased semantic capabilities and interpretability"
+      author: Luigi Arminio, Matteo Magnani, Matias Piqueras, Luca Rossi, Alexandra Segerberg
+      journal: "Social Science Computer Review"
+      volume: Forthcoming
+      number:
+      year: 2025
+      doi:
       material:
       
     - title: "On the accurate computation of expected modularity in probabilistic networks"
