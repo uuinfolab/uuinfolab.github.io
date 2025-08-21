@@ -3,13 +3,24 @@
 - year: 2025
   publications:
 
-    - title: "Towards intersectional fairness in community detection"
-      type: "in-proceedings"
-      author: Georgios Panayiotou, Matteo Magnani, Ece Calikus
-      conference: "DETOX workshop @ ICWSM"
+    - title: "Leveraging VLLMs for Visual Clustering: Image-to-text mapping shows increased semantic capabilities and interpretability"
+      author: Luigi Arminio, Matteo Magnani, Matias Piqueras, Luca Rossi, Alexandra Segerberg
+      journal: "Social Science Computer Review"
+      volume: Forthcoming
+      number:
       year: 2025
+      doi:
       material:
- 
+            
+    - title: "The Seven Roles of Generative Artificial Intelligence: Potential and Pitfalls in Combating Misinformation"
+      author: Thomas Nygren, Jon Roozenbeek, Nicolas Fay, Emily Spearing, Davide Vega
+      journal: "Behavioral Science & Policy"
+      volume: Forthcoming
+      number:
+      year: 2025
+      doi:
+      material:
+            
     - title: "Climate Clash: A Multimodal Analysis of Movement - Countermovement Interactions on Digital Sphere"
       type: "article"
       author: Katrin Uba, Alexandra Segerberg, Matteo Magnani
@@ -20,14 +31,38 @@
       doi:
       material:
 
+    - title: "Who is at Risk? Analyzing the Risk of Radicalization among Reddit Users"
+      author: Ece Calikus, Gianmarco De Francisci Morales, Aristides Gionis
+      conference: "ECMLPKDD 2025"
+      year: 2025
+      doi:
+      material:
+            
+    - title: "Anatomy of a Swedish population-scale network"
+      type: "article"
+      author: Georgios Panayiotou, Inga Wohlert, Miia Bask, Mikael Bask, Matteo Magnani, Ilkka H. Mäkinen
+      journal: "Scientific Reports"
+      volume: 15
+      number: 30300
+      year: 2025
+      doi: https://www.nature.com/articles/s41598-025-15966-x
+      material:
+      
+    - title: "Towards intersectional fairness in community detection"
+      type: "in-proceedings"
+      author: Georgios Panayiotou, Matteo Magnani, Ece Calikus
+      conference: "DETOX workshop @ ICWSM"
+      year: 2025
+      material:
+      
     - title: "On the accurate computation of expected modularity in probabilistic networks"
       type: "article"
       author: Xin Shen, Matteo Magnani, Christian Rohner, Fiona Skerman
       journal: "Scientific Reports"
-      volume: Forthcoming
-      number:
+      volume: 15
+      number: 19062
       year: 2025
-      doi:
+      doi: https://www.nature.com/articles/s41598-025-99114-5
       material: https://github.com/XINS3/Expected-modularity-calculation-over-uncertain-graph
 
     - title: "Visual digital intermediaries and global climate communication: is climate change still a distant problem on YouTube?"
