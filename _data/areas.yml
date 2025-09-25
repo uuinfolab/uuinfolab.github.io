@@ -1,16 +1,16 @@
 # Research areas
 
-- name: "Social network analysis"
-  url: "/research/networks"
-  img: "/assets/images/twnet.png"
-  description: "We develop models for feature-rich social networks, such as multilayer, temporal, communication, and probabilistic networks, to capture the complexity of contemporary social data."
-
-- name: "Social cybersecurity"
-  url: "/research/cybersec"
-  img: "/assets/images/tempcoord.png"
-  description: "We study how humans can be compromised in online environments, for example through online disinformation and inauthentic coordinated information spreading."
-
-- name: "Visual political communication"
-  url: "/research/viscomm"
-  img: "/assets/images/viscomm.jpg"
-  description: "We study how visual content is used online to communicate, aggregate, polarise, and persuade."
+#- name: "Social network analysis"
+#  url: "/research/networks"
+#  img: "/assets/images/twnet.png"
+#  description: "We develop models for feature-rich social networks, such as multilayer, temporal, communication, and probabilistic networks, to capture the complexity of contemporary social data."
+#
+#- name: "Social cybersecurity"
+#  url: "/research/cybersec"
+#  img: "/assets/images/tempcoord.png"
+#  description: "We study how humans can be compromised in online environments, for example through online disinformation and inauthentic coordinated information spreading."
+#
+#- name: "Visual political communication"
+#  url: "/research/viscomm"
+#  img: "/assets/images/viscomm.jpg"
+#  description: "We study how visual content is used online to communicate, aggregate, polarise, and persuade."
