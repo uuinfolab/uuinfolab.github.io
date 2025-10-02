@@ -1,7 +1,7 @@
 # Positions
 
 - level: "PhD"
-  status: "open"
+  status: "closed"
   positions:
 
     - title: "Spreading phenomena, resilience and clustering in probabilistic graphs applied to disaster science"
@@ -11,6 +11,14 @@
       contact: "Christian Rohner"
       url: "https://uu.varbi.com/en/what:job/jobID:799399/"
 
+- level: "Master's theses"
+  status: "open"
+  positions:
+    - title: "Segregation in population-scale social networks"
+      status: "open"
+      description: "This project builds over a previous MSc thesis where we constructed a social opportunity network from statistical population registers, representing different types of relations such as family, or working on the same place, or living in the same neighborhood. The network contains around 10 million Swedish residents, with yearly updates on the status of their relations. The objective of this project is to study segregation processes over these networks."
+      requirements: "Databases, Data Mining (required), Mining of Social Data, graph algorithsm, data engineering courses (meriting)"
+      contact: "Matteo Magnani"
 
 - level: "Master's theses"
   status: "open"
