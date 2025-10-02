@@ -11,6 +11,7 @@
       contact: "Christian Rohner"
       url: "https://uu.varbi.com/en/what:job/jobID:799399/"
 
+
 - level: "Master's theses"
   status: "open"
   positions:
@@ -19,10 +20,7 @@
       description: "This project builds over a previous MSc thesis where we constructed a social opportunity network from statistical population registers, representing different types of relations such as family, or working on the same place, or living in the same neighborhood. The network contains around 10 million Swedish residents, with yearly updates on the status of their relations. The objective of this project is to study segregation processes over these networks."
       requirements: "Databases, Data Mining (required), Mining of Social Data, graph algorithsm, data engineering courses (meriting)"
       contact: "Matteo Magnani"
-
-- level: "Master's theses"
-  status: "open"
-  positions:
+      
     - title: "When and why Emotional Manipulative Language (EML) is effective?"
       status: "open"
       description: "This project integrates NLP, temporal network analysis, and action detection to study the dynamics of Emotional Manipulative Language (EML) in social communication. Conversational data from dyads or small groups will be transcribed and represented as temporal text networks, where nodes are utterances and speakers, and edges model conversational flow. A pretrained EML detection model will label manipulative utterances, while an action detection model will assess whether manipulative attempts lead to compliance, enabling the distinction between manipulative intent and effectiveness. The resulting signed networks will capture successful versus resisted influence, allowing us to analyze who manipulates whom, which strategies succeed, and how manipulation evolves over time. The outcome is a computational pipeline for tracing manipulation at scale, with implications for social science, security, and digital well-being."
