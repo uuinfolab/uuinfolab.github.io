@@ -1,5 +1,5 @@
 # Positions
-      
+
 - level: "PhD"
   status: "open"
   positions:
@@ -11,9 +11,36 @@
       contact: "Christian Rohner"
       url: "https://uu.varbi.com/en/what:job/jobID:799399/"
 
+
 - level: "Master's theses"
-  status: "closed"
+  status: "open"
   positions:
+    - title: "When and why Emotional Manipulative Language (EML) is effective?"
+      status: "open"
+      description: "This project integrates NLP, temporal network analysis, and action detection to study the dynamics of Emotional Manipulative Language (EML) in social communication. Conversational data from dyads or small groups will be transcribed and represented as temporal text networks, where nodes are utterances and speakers, and edges model conversational flow. A pretrained EML detection model will label manipulative utterances, while an action detection model will assess whether manipulative attempts lead to compliance, enabling the distinction between manipulative intent and effectiveness. The resulting signed networks will capture successful versus resisted influence, allowing us to analyze who manipulates whom, which strategies succeed, and how manipulation evolves over time. The outcome is a computational pipeline for tracing manipulation at scale, with implications for social science, security, and digital well-being."
+      requirements: "Data Mining, Mining of Social Data (meriting)"
+      contact: "Diletta Goglia"
+
+    - title: "Is the best, the best? Analysing best-paper awardees’ career trajectories"
+      status: "open"
+      description: "Winning a best paper award is one of the highest recognitions for research excellence at a conference. But is that achievement always awarded to the most ground-breaking, successful papers? And how does it impact junior researchers' future careers? The goal of this project is to investigate how recognition of a paper at a conference translates to the future success of its authors. We specifically examine the career trajectories of junior computer scientists that have been presented with best conference paper awards, comparing them with peers at similar career stages which did not receive the award. The study will combine publicly available award records with bibliometric data to reconstruct and analyse the career paths of awardees and controls."
+      requirements: "Data Mining, Mining of Social Data (meriting), familiarity with network analysis (meriting)"
+      contact: "Georgios Panayiotou"
+      url: "https://docs.google.com/document/d/1pOgdLqZ4azAAQ5Spf7jald7SADkSn6dPq3uEAT0MIaw/edit?usp=sharing"
+
+    - title: "Emotional Speech in Online Discourse"
+      status: "open"
+      description: "This thesis explores the role of emotional speech in shaping online discourse, focusing on how audio features in multimodal formats such as short videos and podcasts influence communication dynamics. While online research has often centered on text and visuals, audio remains an understudied dimension despite its centrality to persuasion, affective polarization, and potential manipulation. The project will analyze how emotions expressed through speech impact engagement and discussion in different contexts, from short-form content like TikTok videos and their comment sections to long-format conversations such as podcasts. Possible case studies include debates and narratives around health and wellness trends, veganism and climate change, and EU politics, offering insights into the broader implications of emotional speech in digital communication."
+      requirements: "Data Mining, Mining of Social Data and Advanced Probabilistic Machine Learning are meriting"
+      contact: "Inga Wohlert"
+
+    - title: "Mapping social issues in Swedish Online News: a comparative analysis across media platforms"
+      status: "open"
+      description: "Understanding how social issues are framed across different types of media is essential to grasping public discourse. This project examines how topics such as immigration, sustainability, and gender equality are portrayed in Swedish online newspapers and on social media (X, formerly Twitter). The primary data is already available, ensuring that students can start analyses immediately. Depending on student interest, the project may also be expanded to include parliamentary debates (Swedish/EU). This optional extension would involve additional data collection and could help explore connections between media coverage and political agenda-setting. The aim is to conduct a comparative and theory-driven analysis of issue salience and framing, across both time and platforms, using advanced data science techniques."
+      requirements: "Data Mining,  Mining of Social Data (meriting)"
+      contact: "Davide Vega"
+      url: "https://docs.google.com/document/d/1laVBqE1meanJB_hDLshivnMgF7yUmzocOhXX35ZLkI4/edit?usp=sharing"
+
     - title: "Analyzing Intersectional Bias in LLM-based Recommender Systems."
       status: "closed"
       description: "Recently, Recommendation Systems (RSs) have leveraged Large Language Models (LLMs) to enhance personalized recommendations. However, LLMs can perpetuate social biases, raising concerns about their trustworthiness in RSs. RSs are widely used in sectors like job markets, finance, and medicine that critically need fair decision-making. While fairness in traditional RSs has been explored, the trustworthiness of LLM-based RSs remains understudied. Most existing research focuses on bias related to specific group identities such as race or gender. However, recent work emphasizes the need to address “Intersectional Fairness”, where interactions across multiple identity dimensions result in unique discrimination for subgroups. This project aims to comprehensively analyze intersectional biases in both traditional and LLM-based RSs, with a focus on critical applications such as news recommendations."
@@ -31,25 +58,25 @@
       description: "This project aims to develop interpretable anomaly detection techniques for tabular data using diffusion models, leveraging their robust generative capabilities to accurately model complex data distributions. Unlike traditional methods, diffusion models offer a unique approach by gradually transforming noise into structured data, enabling a precise representation of normal behavior. By learning this distribution, we will detect anomalies as significant deviations from the expected patterns. The focus on interpretability ensures that detected anomalies can be understood and contextualized, providing meaningful insights and explanations critical for decision-making in high-stakes domains such as finance, healthcare, and industrial monitoring."
       requirements: "Mining of Social Data, Deep Learning, Advanced Probabilistic Machine Learning (meriting),  Advanced Deep Learning for Image Processing (meriting)"
       contact: "Ece Calikus"
-      
+
     - title: "Analyzing the Downstream Implications of Pretrained Image Representations in Visual Topic Models"
       status: "closed"
       description: "This project investigates how the choice of pretrained image representation influences the performance and interpretability of visual topic models, focusing on feature extractors trained with different objectives (e.g., language-supervised, self-supervised, or vLLM's). It examines the impact on model fit, topic coherence, and the labels assigned to discovered topics."
       requirements: "Mining of Social Data, Introduction to Image Analysis (meriting), Advanced Deep Learning for Image Processing (meriting), Advanced Probabilistic Machine Learning (meriting)"
       contact: "Matias Piqueras"
-      
+
     - title: "A comparative study of fairness-aware community detection methods"
       status: "closed"
       description: "With the growing interest in the field of algorithmic fairness, various approaches have been recently introduced to partition graphs into clusters while simultaneously satisfying fairness constraints. This project aims to study and experimentally compare these methods, their scalability, as well as the effect of different demographic fairness functions."
       requirements: "Participation in course: Mining of Social Data"
       contact: "Georgios Panayiotou"
-      
+
     - title: "Generation of large-scale social networks of formal ties"
       status: "closed"
       description: "In the Data Mining course (prerequisite for this project), you have seen the ER model, which can be used to generate simple graphs. This is a fundamental model to generate random (and thus unrealistic) networks, that can be used to understand whether what we see in real networks is a result of randomness or an actual signal to be analysed. The objective of this project is to define and implement a model that can generate realistic data about formal social ties (that is: family ties, same-workplace, same-school, same-neighborhood, etc.). The work will start with a kind of “multilayered” ER-like model, and define (and implement) a sequence of more and more realistic models by adding non-random assumptions about the distribution of the ties (just as an example, things such as: higher probability of having family ties when people live close by and go to the same school, then longitudinal information about how links evolve in time, etc.). A computational challenge is that this model must be able to generate large data – with 10 to 20 million individuals and billions of ties. This is part of a project where we use registry data to generate population-scale social networks to study segregation and other sociological problems. We need this work both to share data (because we are of course not allowed to share the real data), and to make hypotheses about how such data is generated."
       requirements: "Data Mining"
       contact: "Matteo Magnani"
-      
+
 - level: "Bachelor theses"
   status: "closed"
   positions:
