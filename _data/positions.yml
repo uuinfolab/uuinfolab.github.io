@@ -20,12 +20,13 @@
       description: "This project builds over a previous MSc thesis where we constructed a social opportunity network from statistical population registers, representing different types of relations such as family, or working on the same place, or living in the same neighborhood. The network contains around 10 million Swedish residents, with yearly updates on the status of their relations. The objective of this project is to study segregation processes over these networks."
       requirements: "Databases, Data Mining (required), Mining of Social Data, graph algorithsm, data engineering courses (meriting)"
       contact: "Matteo Magnani"
-      
+
     - title: "When and why Emotional Manipulative Language (EML) is effective?"
       status: "open"
       description: "This project integrates NLP, temporal network analysis, and action detection to study the dynamics of Emotional Manipulative Language (EML) in social communication. Conversational data from dyads or small groups will be transcribed and represented as temporal text networks, where nodes are utterances and speakers, and edges model conversational flow. A pretrained EML detection model will label manipulative utterances, while an action detection model will assess whether manipulative attempts lead to compliance, enabling the distinction between manipulative intent and effectiveness. The resulting signed networks will capture successful versus resisted influence, allowing us to analyze who manipulates whom, which strategies succeed, and how manipulation evolves over time. The outcome is a computational pipeline for tracing manipulation at scale, with implications for social science, security, and digital well-being."
       requirements: "Data Mining, Mining of Social Data (meriting)"
       contact: "Diletta Goglia"
+      url: "https://docs.google.com/document/d/11DlgxqtJ0C55oOzlc7NYDwIX9pc-RPRvJueYzM9uc-I/edit?usp=sharing"
 
     - title: "Is the best, the best? Analysing best-paper awardees’ career trajectories"
       status: "open"
@@ -41,7 +42,7 @@
       contact: "Inga Wohlert"
 
     - title: "Mapping social issues in Swedish Online News: a comparative analysis across media platforms"
-      status: "open"
+      status: "closed"
       description: "Understanding how social issues are framed across different types of media is essential to grasping public discourse. This project examines how topics such as immigration, sustainability, and gender equality are portrayed in Swedish online newspapers and on social media (X, formerly Twitter). The primary data is already available, ensuring that students can start analyses immediately. Depending on student interest, the project may also be expanded to include parliamentary debates (Swedish/EU). This optional extension would involve additional data collection and could help explore connections between media coverage and political agenda-setting. The aim is to conduct a comparative and theory-driven analysis of issue salience and framing, across both time and platforms, using advanced data science techniques."
       requirements: "Data Mining,  Mining of Social Data (meriting)"
       contact: "Davide Vega"
