@@ -16,7 +16,7 @@
   status: "open"
   positions:
     - title: "Segregation in population-scale social networks"
-      status: "open"
+      status: "closed"
       description: "This project builds over a previous MSc thesis where we constructed a social opportunity network from statistical population registers, representing different types of relations such as family, or working on the same place, or living in the same neighborhood. The network contains around 10 million Swedish residents, with yearly updates on the status of their relations. The objective of this project is to study segregation processes over these networks."
       requirements: "Databases, Data Mining (required), Mining of Social Data, graph algorithsm, data engineering courses (meriting)"
       contact: "Matteo Magnani"
@@ -36,7 +36,7 @@
       url: "https://docs.google.com/document/d/1pOgdLqZ4azAAQ5Spf7jald7SADkSn6dPq3uEAT0MIaw/edit?usp=sharing"
 
     - title: "Emotional Speech in Online Discourse"
-      status: "open"
+      status: "closed"
       description: "This thesis explores the role of emotional speech in shaping online discourse, focusing on how audio features in multimodal formats such as short videos and podcasts influence communication dynamics. While online research has often centered on text and visuals, audio remains an understudied dimension despite its centrality to persuasion, affective polarization, and potential manipulation. The project will analyze how emotions expressed through speech impact engagement and discussion in different contexts, from short-form content like TikTok videos and their comment sections to long-format conversations such as podcasts. Possible case studies include debates and narratives around health and wellness trends, veganism and climate change, and EU politics, offering insights into the broader implications of emotional speech in digital communication."
       requirements: "Data Mining, Mining of Social Data and Advanced Probabilistic Machine Learning are meriting"
       contact: "Inga Wohlert"
