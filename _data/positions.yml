@@ -22,14 +22,14 @@
       contact: "Matteo Magnani"
 
     - title: "When and why Emotional Manipulative Language (EML) is effective?"
-      status: "open"
+      status: "closed"
       description: "This project integrates NLP, temporal network analysis, and action detection to study the dynamics of Emotional Manipulative Language (EML) in social communication. Conversational data from dyads or small groups will be transcribed and represented as temporal text networks, where nodes are utterances and speakers, and edges model conversational flow. A pretrained EML detection model will label manipulative utterances, while an action detection model will assess whether manipulative attempts lead to compliance, enabling the distinction between manipulative intent and effectiveness. The resulting signed networks will capture successful versus resisted influence, allowing us to analyze who manipulates whom, which strategies succeed, and how manipulation evolves over time. The outcome is a computational pipeline for tracing manipulation at scale, with implications for social science, security, and digital well-being."
       requirements: "Data Mining, Mining of Social Data (meriting)"
       contact: "Diletta Goglia"
       url: "https://docs.google.com/document/d/11DlgxqtJ0C55oOzlc7NYDwIX9pc-RPRvJueYzM9uc-I/edit?usp=sharing"
 
     - title: "Is the best, the best? Analysing best-paper awardees’ career trajectories"
-      status: "open"
+      status: "closed"
       description: "Winning a best paper award is one of the highest recognitions for research excellence at a conference. But is that achievement always awarded to the most ground-breaking, successful papers? And how does it impact junior researchers' future careers? The goal of this project is to investigate how recognition of a paper at a conference translates to the future success of its authors. We specifically examine the career trajectories of junior computer scientists that have been presented with best conference paper awards, comparing them with peers at similar career stages which did not receive the award. The study will combine publicly available award records with bibliometric data to reconstruct and analyse the career paths of awardees and controls."
       requirements: "Data Mining, Mining of Social Data (meriting), familiarity with network analysis (meriting)"
       contact: "Georgios Panayiotou"
