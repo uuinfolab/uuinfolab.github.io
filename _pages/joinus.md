@@ -50,7 +50,7 @@ When joining the lab:
 1. A current faculty member will register you to our internal systems.
     * Slack (we do not normally use email for communication).
     * Group storage space.
-1. Follow the LinkedIn, X, and Facebook accounts of the lab, if you use these social media for work.
+1. Follow the LinkedIn and Bluesky accounts of the lab, if you use these social media for work.
 
 # Expectations from members of the InfoLab 
 
@@ -128,7 +128,7 @@ Every PhD student is funded by a combination of different sources. Most of the t
 
 - A typical (although in no way constraining) case is that each PhD student presents one work at a conference every year. This is important to train presentation skills and to build your network. For conferences without proceedings, the work is then submitted as a journal article. During the first year, when research results may not yet be ready for submission, a summer school in the area of the PhD can be considered as an alternative to a conference participation.
 
-- When possible, climate-friendly travelling alternatives should be preferred. - Given that conferences travel around the world and each major conference will be in Europe at least once and normally multiple times during a PhD education, _when we submit our papers we try to favour conferences planned in Europe_. We will still be able to be present at the important venues in our area, while also having a low environmental impact.
+- When possible, climate-friendly travelling alternatives should be preferred. Given that conferences travel around the world and each major conference will be in Europe at least once and normally multiple times during a PhD education, _when we submit our papers we try to favour conferences planned in Europe_. We will still be able to be present at the important venues in our area, while also having a low environmental impact.
 
 - During the PhD it can be good to participate in a PhD school (e.g. a summer school), as mentioned above. This can be done at the beginning, to get in touch with other relevant PhD students in your area, or later, to deepen your knowledge and network on a specific advanced topic that is important for your studies. The relevance of the school for your studies has to be argued in advance with the PAP (if to be covered with State funding), but participation in a PhD school during your studies is encouraged and will be supported by your supervisor.
 
