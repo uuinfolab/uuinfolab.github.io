@@ -1,8 +1,15 @@
 # Positions
 
 - level: "PhD"
-  status: "closed"
+  status: "open"
   positions:
+
+    - title: "Fair Social Network Analysis"
+      status: "open"
+      description: "This project aims to develop social network analysis (SNA) methods that incorporate both network structure and the personal attributes of nodes, while minimising bias against individuals or groups. The following aspects are central for this PhD project. The definition of fairness implemented in the designed SNA methods must refer to the related sociological literature. Method development must be based on advanced combinatorial optimisation technologies. The methods must be tested on real social data."
+      requirements: "See the call"
+      contact: "Matteo Magnani"
+      url: "https://uu.varbi.com/en/what:job/jobID:877372/"
 
     - title: "Spreading phenomena, resilience and clustering in probabilistic graphs applied to disaster science"
       status: "closed"
@@ -13,7 +20,7 @@
 
 
 - level: "Master's theses"
-  status: "open"
+  status: "closed"
   positions:
     - title: "Segregation in population-scale social networks"
       status: "closed"
