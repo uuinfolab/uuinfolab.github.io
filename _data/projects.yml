@@ -90,6 +90,12 @@
       
 - scope: "Travel grants"
   projects:
+
+    - title: "Research stay"
+      id: ""
+      funder: "Willgott Stenholm Scholarship Foundation"
+      years: "2026"
+      description: "Research stay at Central European University, Vienna (recipient: Diletta Goglia)."
      
     - title: "Research stay"
       id: ""
