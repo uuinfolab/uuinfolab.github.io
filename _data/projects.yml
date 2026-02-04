@@ -47,7 +47,13 @@
 
 - scope: "National research projects and funded collaborations"
   projects:
-  
+          
+    - title: "Fair Social Network Analysis"
+      id: "2025-04504"
+      funder: "Swedish Research Council (VR)"
+      years: "2026-2029"
+      description: "Pulling together fairness, social network analysis, and combinatorial optimisation."
+
     - title: "eSSENCE"
       id: ""
       funder: "Swedish Government"
