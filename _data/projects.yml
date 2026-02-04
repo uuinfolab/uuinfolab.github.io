@@ -2,7 +2,19 @@
 
 - scope: "International research projects and funded collaborations"
   projects:
-
+  
+    - title: "Fighting Everyday Misogyny in Visual Online Cultures – FEMVision"
+      id: "101289333"
+      funder: "EU Horizon"
+      years: "2026-2029"
+      description: "This project investigates and counters online misogyny by focusing on its visual dimension and on the mainstream digital spaces where it is most likely to be encountered by young European citizens aged 18–30. Unlike approaches that concentrate on fringe extremist environments, this project addresses the everyday digital ecosystems, where misogynistic content often circulates in subtle, ironic, or aesthetically appealing forms. By centring on visual content – the dominant mode of communication and identity work for younger generations – the project captures an understudied yet critical arena in which gendered hostility is normalised, negotiated, or resisted."
+    
+    - title: "PolarNar: From polarization to persuasive power of visual narrative"
+      id: ""
+      funder: "Center for Advanced Internet Studies (CAIS) gGmbH"
+      years: "2026"
+      description: "Hosting our working group at the Centre, to consolidate, leverage and develop further the results of the PolarVis research project."
+      
     - title: "VISUAL PERSUASION IN A TRANSFORMING EUROPE: the affective and polarising power of visual content in online political discourse (PolarVis)"
       id: "GD-2022/0019"
       funder: "Chanse programme (FORTE)"

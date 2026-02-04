@@ -1,5 +1,34 @@
 # Publications
 
+- year: 2026
+  publications:
+
+    - title: "Gradient-Based Diversity Optimization with Differentiable Top-K Objective"
+      type: "in-proceedings"
+      author: Zhou, T., Sebastian Dalleiger, Ece Calikus & Aristides Gionis
+      conference: "International Conference on Learning Representations (ICLR)"
+      year: 2026
+      doi:
+      material:
+      
+    - title: "Multimodal coordinated online behavior: Trade-offs and strategies"
+      type: "article"
+      author: Lorenzo Mannocci, Stefano Cresci, Matteo Magnani, Anna Monreale & Maurizio Tesconi
+      journal: "Information Sciences"
+      volume:
+      number:
+      year: 2026
+      doi: https://doi.org/10.1016/j.ins.2026.123125
+      material:
+      
+    - title: "Fair multilayer community detection: A research agenda"
+      type: "in-proceedings"
+      author: Georgios Panayiotou & Matteo Magnani
+      conference: "Symposium on Intelligent Data Analysis (IDA)"
+      year: 2026
+      doi:
+      material:
+
 - year: 2025
   publications:
 
@@ -7,30 +36,30 @@
       type: "article"
       author: Luigi Arminio, Matteo Magnani, Matias Piqueras, Luca Rossi, Alexandra Segerberg
       journal: "Social Science Computer Review"
-      volume: Forthcoming
+      volume:
       number:
       year: 2025
-      doi:
+      doi: https://doi.org/10.1177/08944393251376703
       material:
 
     - title: "The Seven Roles of Generative Artificial Intelligence: Potential and Pitfalls in Combating Misinformation"
       type: "article"
       author: Thomas Nygren, Jon Roozenbeek, Nicolas Fay, Emily Spearing, Davide Vega
       journal: "Behavioral Science and Policy"
-      volume: Forthcoming
+      volume:
       number:
       year: 2025
-      doi:
+      doi: https://doi.org/10.31219/osf.io/j4gtv_v1
       material:
       
     - title: "Climate Clash: A Multimodal Analysis of Movement - Countermovement Interactions on Digital Sphere"
       type: "article"
       author: Katrin Uba, Alexandra Segerberg, Matteo Magnani
       journal: "American Behavioral Scientist"
-      volume: Forthcoming
+      volume:
       number:
       year: 2025
-      doi:
+      doi: https://doi.org/10.1177/00027642251377868
       material:
 
     - title: "Who is at Risk? Analyzing the Risk of Radicalization among Reddit Users"
@@ -39,7 +68,7 @@
       conference: "ECMLPKDD 2025"
       number:
       year: 2025
-      doi:
+      doi: https://doi.org/10.1007/978-3-032-06129-4_22
       material:
       
     - title: "Anatomy of a Swedish population-scale network"
