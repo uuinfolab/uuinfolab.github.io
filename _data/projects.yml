@@ -59,23 +59,29 @@
       funder: "Swedish Government"
       years: "2024-2029"
       description: "Partial funding for a PhD student position on the development of e-science methods for social cybersecurity."
-        
+          
+    - title: "Visual Politics: A Deep Learning Approach to the Spread and Stick of Political Ideas"
+      id: "2021-02769"
+      funder: "Swedish Research Council (VR)"
+      years: "2022-2026"
+      description: "A project on methodological and empirical advances in the analysis of online visual political communication."
+
     - title: "eSSENCE"
       id: ""
       funder: "Swedish Government"
       years: "2022-"
       description: "A Swedish strategic collaborative research programme in e-Science"
-        
-    - title: "Visual Politics: A Deep Learning Approach to the Spread and Stick of Political Ideas"
-      id: "2021-02769"
-      funder: "Swedish Research Council (VR)"
-      years: "2022-2025"
-      description: "A project on methodological and empirical advances in the analysis of online visual political communication."
 
 
 - scope: "Funding from Uppsala University"
   projects:
     
+    - title: "Computational Social Science (Research Network)"
+      id: ""
+      funder: "Centre for Integrated Research on Culture and Society (CIRCUS)"
+      years: "2026-2027"
+      description: "Funding for the establishment of a cross-Faculty research network."
+      
     - title: "Graduate school in cybersecurity"
       id: ""
       funder: "Department of Information technology"
@@ -92,7 +98,7 @@
       id: ""
       funder: "Centre for Integrated Research on Culture and Society (CIRCUS)"
       years: "2022-2023"
-      description: "Seed funding for the establishment of a cross-Faculty research network."
+      description: "Funding for the establishment of a cross-Faculty research network."
 
     - title: "Self-referential perception at the macro level"
       id: ""
