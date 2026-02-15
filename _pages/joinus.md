@@ -102,7 +102,9 @@ While your supervisor typically decides how many credits to assign to each cours
 
 - Credits for summer schools typically correspond to 1.5 for a week-long school, plus additional credits if additional work is needed for the examination. It happens that external summer schools promise unreasonable amounts of credits, so remember that the actual credits are decided by your supervisor.
 
-- Participating in conferences is part of the PhD education, so in general this does not correspond to credits. Individual supervisors may have different arrangements.
+- All research seminars given at the department or associated with the InfoLab (including PhD half-time seminars and the Lab's lunchtime seminars) can be included in the ISP and can be later registered as credits. 40 hours of seminars correspond to 1.5 credits, with steps of 0.5 credits. Other seminars can be credited upon approval by the main supervisor.
+
+- Conferences are considered equivalent to PhD schools, corresponding to 1.5 credits for a one-week conference where the student attends all the sessions. To obtain the credits, the student must present a summary of or highlights from the conference at a Lab research seminar.
 
 ## Funding sources
 
