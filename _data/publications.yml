@@ -5,7 +5,7 @@
 
     - title: "Gradient-Based Diversity Optimization with Differentiable Top-K Objective"
       type: "in-proceedings"
-      author: Zhou, T., Sebastian Dalleiger, Ece Calikus & Aristides Gionis
+      author: Tianyi Zhou, Sebastian Dalleiger, Ece Calikus & Aristides Gionis
       conference: "International Conference on Learning Representations (ICLR)"
       year: 2026
       doi:
