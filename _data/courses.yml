@@ -1,11 +1,5 @@
 # Courses
 
-- name: "Introduction to computational social science"
-  level: "Bachelor"
-  frequency: "Once a year"
-  url: "http://www.uu.se/en/admissions/master/selma/kursplan/?kKod=1DL007"
-  description: "The course introduces computational approaches to model human behaviour and social phenomena. Core concepts in computational social science are covered, such as observational studies (what types of data exist, possible biases and how to use data for modelling), basic concepts and techniques for running experiments (asking vs. observing, natural experiments, simulations, validity and generalisation) and discuss key issues such as ethical considerations. The course has both a theoretical and a practical perspective, where students learn basic principles and also how to apply them in practice in three main areas: social network analysis, text analysis, and agent-based modelling and simulation."
-  
 - name: "Data Mining I"
   level: "Master"
   frequency: "Twice a year"
@@ -21,7 +15,7 @@
 - name: "Network Science"
   level: "PhD"
   frequency: "Every second year"
-  url: "https://uuinfolab.github.io/courses/networkscience_phd2024"
+  url: "https://uuinfolab.github.io/courses/networkscience_phd2026"
   description: "An introduction to the field of Network Science targeted to PhD students in all disciplinary domains. After introducing the basic terminology and concepts, (guest) lectures on specific topics and a review of selected literature allow the students to go more in depth in their own domain."
   
 - name: "Readings in Network Science"
@@ -41,3 +35,10 @@
   frequency: "One instance currently planned"
   url: "https://uuinfolab.github.io/courses/llm2025"
   description: "This course provides a comprehensive overview of Large Language Models, from foundational theory to applications in trending research directions."
+
+- name: "Introduction to computational social science"
+  level: "Bachelor"
+  frequency: "Discontinued"
+  url: "http://www.uu.se/en/admissions/master/selma/kursplan/?kKod=1DL007"
+  description: "The course introduces computational approaches to model human behaviour and social phenomena. Core concepts in computational social science are covered, such as observational studies (what types of data exist, possible biases and how to use data for modelling), basic concepts and techniques for running experiments (asking vs. observing, natural experiments, simulations, validity and generalisation) and discuss key issues such as ethical considerations. The course has both a theoretical and a practical perspective, where students learn basic principles and also how to apply them in practice in three main areas: social network analysis, text analysis, and agent-based modelling and simulation."
+  
