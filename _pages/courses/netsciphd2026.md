@@ -63,4 +63,4 @@ The course is targeted to PhD students willing to apply network science in their
 
 ## Registration
 
-The course is free and open to everyone upon registration, the number of available places is limited; PhD students will be given priority. If interested, please use the <a href="https://forms.gle/btkNvpDDpbVrLLHJ7" target="_blank">registration form</a> . Please *register latest May 15, 2024*.
+The course is free and open to everyone upon registration, the number of available places is limited; PhD students will be given priority. If interested, please use the <a href="https://doit.medfarm.uu.se/bin/kurt3/kurt/8904098" target="_blank">registration form</a> . Please *register latest May 13, 2026*.
