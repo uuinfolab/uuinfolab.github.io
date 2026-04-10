@@ -27,21 +27,21 @@ The schedule for the course is the following:
 
 ### PART I: Networks: basic concepts (lectures with practical activities)
 
- * Mon, May 18, 09:00-9:30 Room TBA (Ångström laboratory) Introduction to the course (Davide Vega)
- * Mon, May 18, 9:30-12:00 Room TBA (Ångström laboratory) Basics: Models and measures (Matteo Magnani)
- * Mon, May 18, 13:00-15:30 Room TBA (Ångström laboratory) Basics: Models and measures (Davide Vega)
- * Tue, May 19, 09:00-10:30 Room TBA (Ångström laboratory) Propagation  (Christian Rohner)
- * Tue, May 19, 10:30-12:00 Room TBA (Ångström laboratory) Modularity-based graph clustering (Fiona Skerman, Dept. of mathematics)
- * Tue, May 19, Tue, 13:00-14:00 Room TBA (Ångström laboratory) Temporal Networks (Christian Rohner)
-  * Tue, May 19, Tue, 14:00-16:00 Room TBA (Ångström laboratory) Node distances and measures (Akrati Saxena, Leiden University)
+ * Mon, May 18, 09:00-9:30 Room 101130 (Ångström laboratory) Introduction to the course (Davide Vega)
+ * Mon, May 18, 9:30-12:00 Room 101130 (Ångström laboratory) Basics: Models and measures I (Matteo Magnani)
+ * Mon, May 18, 13:00-15:30 Room 4001 (Ångström laboratory) Basics: Models and measures II (Davide Vega)
+ * Tue, May 19, 09:00-10:30 Room 100155 (Ångström laboratory) Propagation  (Christian Rohner)
+ * Tue, May 19, 10:30-12:00 Room 100155 (Ångström laboratory) Modularity-based graph clustering (Fiona Skerman, Dept. of mathematics)
+ * Tue, May 19, Tue, 13:00-14:00 Room 2005 (Ångström laboratory) Temporal Networks (Christian Rohner)
+  * Tue, May 19, Tue, 14:00-16:00 Room 2005 (Ångström laboratory) Fairness perspective in Networks (Akrati Saxena, Leiden University)
  
 ### PART II: Selected topics (lectures with practical activities and guest lectures)
- * Mon, May 25, 09:00-12:00 Room TBA (Ångström laboratory) Role and positional analysis (Davide Vega, Uppsala University)
- * Mon, May 25, 13:15-15:15 Room TBA (Ångström laboratory) Multilayer networks (Georgios Panayiotou, Uppsala University)
- * Tue, May 26, 10:00-12:00 Room TBA (Ångström laboratory) Inference in networks (Martina Contisciani, Central European University)
- * Tue, May 26, 13:15-15:15 Room TBA (Ångström laboratory) Higher order networks (Hanlin Sun, NORDITA - Stockholm University and KTH Royal Institute of Technology)
- * Mon, June 1, 10:00-12:00 Room TBA (Ångström laboratory) Network visualization (Kostiantyn Kucher, Linköping University)
- * Mon, June 15, 09:00-12:00 Room TBA (Ångström laboratory) Program committee meeting and course conclusion
+ * Mon, May 25, 09:00-12:00 Room 100155 (Ångström laboratory) Role and positional analysis (Davide Vega, Uppsala University)
+ * Mon, May 25, 13:15-15:15 Room 101127 (Ångström laboratory) Multilayer networks (Georgios Panayiotou, Uppsala University)
+ * Tue, May 26, 10:00-12:00 Room 100155 (Ångström laboratory) Inference in networks (Martina Contisciani, Central European University)
+ * Tue, May 26, 13:15-15:15 Room 101127 (Ångström laboratory) Higher order networks (Hanlin Sun, NORDITA - Stockholm University and KTH Royal Institute of Technology)
+ * Mon, June 1, 10:00-12:00 Room 100155 (Ångström laboratory) Network visualization (Kostiantyn Kucher, Linköping University)
+ * Mon, June 15, 09:00-12:00 Room 101127 (Ångström laboratory) Program committee meeting and course conclusion
 
 ### PART III: Literature study
 
@@ -51,7 +51,7 @@ Students will bid and be assigned to relevant research papers covering various a
  * Bidding deadline:  Fri, May 29.
  * Paper assignment:  Mon, June 3.
  * Deadline to submit reviews:  Thu, June 11.
- * Program committee meeting and course conclusion: Mon, June 15 Room TBA (Ångström laboratory).
+ * Program committee meeting and course conclusion: Mon, June 15 Room 101127 (Ångström laboratory).
 
 ## Credits and assessment
 
