@@ -33,7 +33,7 @@ The schedule for the course is the following:
  * Tue, May 19, 09:00-10:30 Room 100155 (Ångström laboratory) Propagation  (Christian Rohner)
  * Tue, May 19, 10:30-12:00 Room 100155 (Ångström laboratory) Modularity-based graph clustering (Fiona Skerman, Dept. of mathematics)
  * Tue, May 19, Tue, 13:00-14:00 Room 2005 (Ångström laboratory) Temporal Networks (Christian Rohner)
-  * Tue, May 19, Tue, 14:00-16:00 Room 2005 (Ångström laboratory) Fairness perspective in Networks (Akrati Saxena, Leiden University)
+  * Tue, May 19, Tue, 14:00-16:00 Room 2005 (Ångström laboratory) Algorithmic Fairness in Network Analysis (Akrati Saxena, Leiden University)
  
 ### PART II: Selected topics (lectures with practical activities and guest lectures)
  * Mon, May 25, 09:00-12:00 Room 100155 (Ångström laboratory) Role and positional analysis (Davide Vega, Uppsala University)
