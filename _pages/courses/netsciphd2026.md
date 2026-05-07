@@ -27,9 +27,9 @@ The schedule for the course is the following:
 
 ### PART I: Networks: basic concepts (lectures with practical activities)
 
- * Mon, May 18, 09:00-9:30 Room 101130 (Ångström laboratory) Introduction to the course (Davide Vega)
- * Mon, May 18, 9:30-12:00 Room 101130 (Ångström laboratory) Basics: Models and measures I (Matteo Magnani)
- * Mon, May 18, 13:00-15:30 Room 4001 (Ångström laboratory) Basics: Models and measures II (Davide Vega)
+ * Mon, May 18, 09:30-10:00 Room 101130 (Ångström laboratory) Introduction to the course (Davide Vega)
+ * Mon, May 18, 10:00-12:00 Room 101130 (Ångström laboratory) Basics: Models and measures I (Matteo Magnani)
+ * Mon, May 18, 13:00-16:00 Room 2005 (Ångström laboratory) Basics: Models and measures II (Davide Vega)
  * Tue, May 19, 09:00-10:30 Room 100155 (Ångström laboratory) Propagation  (Christian Rohner)
  * Tue, May 19, 10:30-12:00 Room 100155 (Ångström laboratory) Modularity-based graph clustering (Fiona Skerman, Dept. of mathematics)
  * Tue, May 19, Tue, 13:00-14:00 Room 2005 (Ångström laboratory) Temporal Networks (Christian Rohner)
