@@ -1,11 +1,11 @@
 # Positions
 
 - level: "PhD"
-  status: "open"
+  status: "closed"
   positions:
 
     - title: "Fair Social Network Analysis"
-      status: "open"
+      status: "closed"
       description: "This project aims to develop social network analysis (SNA) methods that incorporate both network structure and the personal attributes of nodes, while minimising bias against individuals or groups. The following aspects are central for this PhD project. The definition of fairness implemented in the designed SNA methods must refer to the related sociological literature. Method development must be based on advanced combinatorial optimisation technologies. The methods must be tested on real social data."
       requirements: "See the call"
       contact: "Matteo Magnani"
@@ -18,7 +18,17 @@
       contact: "Christian Rohner"
       url: "https://uu.varbi.com/en/what:job/jobID:799399/"
 
+- level: "Research assistant"
+  status: "open"
+  positions:
 
+    - title: "Analysis of Visual Communication"
+      status: "open"
+      description: "A research assistant position for recent Master graduates with expertise in coding and experience in handling social data (e.g. from social media), to organise and develop data and code for our projects on visual political communication."
+      requirements: "See the call"
+      contact: "Matteo Magnani"
+      url: "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=940776"
+      
 - level: "Master's theses"
   status: "closed"
   positions:
