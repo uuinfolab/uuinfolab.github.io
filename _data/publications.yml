@@ -3,6 +3,34 @@
 - year: 2026
   publications:
 
+    - title: "An Image is Worth K Topics: A Visual Structural Topic Model with Pretrained Image Embeddings"
+      type: "article"
+      author: Matias Piqueras, Alexandra Segerberg, Matteo Magnani, Måns Magnusson & Nataša Sladoje
+      journal: "Political Analysis"
+      volume: Accepted for publication
+      number:
+      year: 2026
+      doi:
+      material:
+
+    - title: "Detecting Coordinated Behaviour on Video-First Platforms"
+      type: "article"
+      author: Inga Wohlert, Davide Vega, Matteo Magnani, Alexandra Segerberg
+      journal: "Computational Communication Research"
+      volume: Accepted for publication
+      number:
+      year: 2026
+      doi:
+      material:
+      
+    - title: "Network science for social communication studies"
+      type: "in-proceedings"
+      author: Diletta Goglia, Davide Vega & Matteo Magnani
+      conference: "Chapter in: Handbook of Social and Communication Networks"
+      year: 2026
+      doi:
+      material:
+
     - title: "Gradient-Based Diversity Optimization with Differentiable Top-K Objective"
       type: "in-proceedings"
       author: Tianyi Zhou, Sebastian Dalleiger, Ece Calikus & Aristides Gionis
