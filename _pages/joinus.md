@@ -42,16 +42,6 @@ This section collects some information about life in Sweden and about how we wor
 
 Sweden is a fantastic place for living and working. Swedes are friendly and speak excellent English.  The quality of life is high, with a strong emphasis on outdoor activities.  The Swedish working climate emphasises an open atmosphere, with active discussions involving both junior and senior staff.  Spouses of employees are entitled to work permits. Healthcare is free after a small co-pay and the university subsidises athletic costs, such as a gym membership.  The parental benefits in Sweden are among the best in the world, including extensive parental leave (for both parents), paid time off to care for sick children, and affordable daycare.  For more information, be sure to read <a href="https://www.uu.se/en/about-uu/join-us/advantages" target="_new">Why choose Sweden?</a> and <a href="https://www.uu.se/en/about-uu/join-us/why-uppsala-university" target="_new">Why choose Uppsala University?</a>.
 
-## Start-up checklist
-
-When joining the lab:
-
-1. If you are not already in Uppsala, make sure you start looking for an accommodation well in advance, this can take time.
-1. A current faculty member will register you to our internal systems.
-    * Slack (we do not normally use email for communication).
-    * Group storage space.
-1. Follow the LinkedIn and Bluesky accounts of the lab, if you use these social media for work.
-
 # Expectations from members of the InfoLab 
 
 Being part of a lab comes with many advantages, for example in terms of access to knowledge and information, but requires everyone to make a (small) effort to contribute to the lab environment. The following are some guidelines for the InfoLab. 
