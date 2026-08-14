@@ -2,7 +2,7 @@
 
 - year: 2026
   publications:
-
+    
     - title: "An Image is Worth K Topics: A Visual Structural Topic Model with Pretrained Image Embeddings"
       type: "article"
       author: Matias Piqueras, Alexandra Segerberg, Matteo Magnani, Måns Magnusson & Nataša Sladoje
@@ -55,6 +55,15 @@
       author: Georgios Panayiotou & Matteo Magnani
       conference: "Symposium on Intelligent Data Analysis (IDA)"
       year: 2026
+      doi: https://doi.org/10.1007/978-3-032-23833-7_25
+      material:
+
+    - title: "Setting the clock: Evaluating Temporal Window Parameters for Coordinated Behavior Detection"
+      type: "in-proceedings"
+      author: Georgios Panayiotou, Lorenzo Mannocci & Maurizio Tesconi
+      conference: "AIDEM workshop @ ECMLPKDD 2026"
+      year: 2026
+      pdf:
       doi:
       material:
 
@@ -115,7 +124,8 @@
       author: Georgios Panayiotou, Matteo Magnani, Ece Calikus
       conference: "DETOX workshop @ ICWSM"
       year: 2025
-      material:
+      doi: https://doi.org/10.36190/2025.40
+      material: https://github.com/uuinfolab/paper.25_ICWSM_Intersectional-Fairness-CD.git
       
     - title: "On the accurate computation of expected modularity in probabilistic networks"
       type: "article"
@@ -172,6 +182,7 @@
       author: Georgios Panayiotou, Matteo Magnani
       conference: "International conference on complex networks and their applications"
       year: 2024
+      doi: https://doi.org/10.1007/978-3-031-82435-7_8
       material: https://github.com/uuinfolab/paper.24_ComplexNetworks_Fair-Mod.git
       
     - title: "INet for Network Integration"
