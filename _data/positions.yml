@@ -45,8 +45,8 @@
   positions:
     - title: "Multiple positions will soon be opened"
       status: "open"
-      description: "Between September and October we will have a MSc fair where we will present all the project offered by our lab for the Spring term. The date will be set at the beginning of September."
-      requirements: ""
+      description: "Between September and October we will have a MSc fair where we present all the projects offered by our lab for the Spring term. The date for the fair will be set at the beginning of September."
+      requirements: "Will vary depending on the project"
       contact: "Matteo Magnani"
 
     - title: "Segregation in population-scale social networks"
