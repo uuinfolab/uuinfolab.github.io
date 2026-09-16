@@ -61,6 +61,10 @@
 #  url: "https://www.uu.se/en/contact-and-organisation/staff?query=N25-389"
 #  title: "Research Assistant"
 # Temporary
+- name: "Thomas Baillie-Dawe"
+  pic: "/assets/images/people/thomas.png"
+  url: "https://www.imt-atlantique.fr/en/person/thomas-baillie-dawe"
+  title: "Visiting PhD Student"
 #- name: "Luigi Arminio"
 #  pic: "/assets/images/people/luigi.png"
 #  url: "https://pure.itu.dk/en/persons/luigi-arminio"
