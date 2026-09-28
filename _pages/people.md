@@ -23,6 +23,8 @@ header:
 <div class="stop"/>
 </div>
 
+<br/>
+
 
 # Associate members[^1]
 
@@ -32,6 +34,8 @@ header:
 **{{ person.name }}**, {{ person.title }}, {{ person.affiliation }}.
 {% endfor %}
 
+<br/>
+
 # Past members[^2]
 
 [^2]: Visiting researchers who spent a significant amount of time (normally a few months) at the Infolab and previous members (PhD students, postdocs, etc.).
@@ -39,6 +43,8 @@ header:
 {% for person in site.data.people.past_members %}
 **{{ person.name }}**, {{ person.title }} ({{ person.year }}).
 {% endfor %}
+
+<br/>
 
 # Alumni[^3]
 
