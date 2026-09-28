@@ -22,14 +22,15 @@ div.profiles {
   width: 100%;
 }
 
+
 figure.profile {
-  width: 200px;
-  float: left;
-  background-color: white;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  margin-bottom: 10px;
-  margin-right: 10px;
+    flex: 0 0 200px;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2),
+                0 6px 20px rgba(0, 0, 0, 0.19);
+    margin: 0;
 }
+
 
 figcaption.profile {
   width: 100%;
