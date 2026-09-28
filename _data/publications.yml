@@ -3,6 +3,26 @@
 - year: 2026
   publications:
 
+    - title: "Visual Contestation and Polarisation around the Global Climate Strike"
+      type: "article"
+      author: Alexandra Segerberg, Matias Piqueras & Matteo Magnani
+      journal: "Computational Communication Research"
+      volume: Accepted
+      number:
+      year: 2026
+      doi:
+      material:
+
+    - title: "MOUFLON: multi-group modularity-based fairness-awarecommunity detection"
+      type: "article"
+      author: Georgios Panayiotou, Anand Mathew Muthukulam Simon, Matteo Magnani & Ece Calikus
+      journal: "Data Mining and Knowledge Discovery"
+      volume: 40
+      number: 92
+      year: 2026
+      doi: https://link.springer.com/epdf/10.1007/s10618-026-01260-5?sharing_token=MNhXnzfUUCZHMwwFr14Okve4RwlQNchNByi7wbcMAY543L3iUboHV6dDaGGW_jQux974DjWmdK8x4v9oXprIMAG3Two_3lFuRrDZeCVHAQW0Xx2-S1KIAKe_wiprNcL35ylAUIHxs2t-a7cdyS2ZQhCB41uR0ySf_M1tvA3XZw8%3D
+      material:
+      
     - title: "An Image is Worth K Topics: A Visual Structural Topic Model with Pretrained Image Embeddings"
       type: "article"
       author: Matias Piqueras, Alexandra Segerberg, Matteo Magnani, Måns Magnusson & Nataša Sladoje
@@ -17,10 +37,10 @@
       type: "article"
       author: Inga Wohlert, Davide Vega, Matteo Magnani, Alexandra Segerberg
       journal: "Computational Communication Research"
-      volume: Accepted for publication
-      number:
+      volume: 8
+      number: 4
       year: 2026
-      doi:
+      doi: https://doi.org/10.5117/CCR2026.4.3.WOHL
       material:
       
     - title: "Network science for social communication studies"
@@ -55,7 +75,7 @@
       author: Georgios Panayiotou & Matteo Magnani
       conference: "Symposium on Intelligent Data Analysis (IDA)"
       year: 2026
-      doi:
+      doi: https://doi.org/10.1007/978-3-032-23833-7_25
       material:
 
 - year: 2025
@@ -115,6 +135,7 @@
       author: Georgios Panayiotou, Matteo Magnani, Ece Calikus
       conference: "DETOX workshop @ ICWSM"
       year: 2025
+      doi: https://georgios.panayiotou.cy/files/pubs/intersectional-cd.pdf
       material:
       
     - title: "On the accurate computation of expected modularity in probabilistic networks"
