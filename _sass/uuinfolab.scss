@@ -19,33 +19,33 @@ html {
 }
 
 div.profiles {
-  width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    width: 100%;
 }
-
 
 figure.profile {
-    flex: 0 0 200px;
-    background-color: white;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2),
-                0 6px 20px rgba(0, 0, 0, 0.19);
+    flex: 0 0 200px;   /* fixed 200px width */
+    width: 200px;
     margin: 0;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+                0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-
 figcaption.profile {
-  width: 100%;
-  font-size: 16px;
-  text-align: center;
-  white-space: nowrap;
-  padding: 10px 20px;
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 16px;
+    text-align: center;
+    white-space: nowrap;
+    padding: 10px 20px;
 }
 
 img.profilepic {
     width: 100%;
-}
-
-div.stop {
-clear: both;
+    display: block;
 }
 
 .research-box figure {
