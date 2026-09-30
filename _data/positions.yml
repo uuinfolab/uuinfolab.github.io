@@ -55,6 +55,13 @@
       requirements: "Mining of Social Data"
       contact: "Theodora Moldovan"
 
+    - title: "Anatomy of TikTok Videos"
+      status: "open"
+      description: "Short-videos and recommender algorithms have become the dominant format within social media. While many studies started by mainly focusing on one or two of the modalities of the videos for their analysis, first studies have started to develop tools and frameworks to comprehend the multimodal aspects and how they shape the content, e.g. such as through framing. However, the temporal aspect of the videos is still understudied, despite it being of high relevance, as many users will only encounter the first (few) second(s) of the video, before scrolling to the next. This project aims to develop a pipeline to study the different modalities (audio, visuals, text) of a TikTok video across the temporal axis and apply it to a large-scale datasets. Of particular interest is the analysis of the mechanisms through which certain modalities might attract users’ attention or elicit an emotional response from them.<br/><br/>References:<br/>[1] Zha, M., & Chang, H.-C. H. (2026). Interpreting multimodal communication at scale in short-form video: Visual, audio, and textual mental health discourse on TikTok. doi:10.48550/arXiv.2601.15278<br/>[2] Hu, H. L., & Fu, K.-W. (2026). Seeing, reading, hearing, interpreting: Computational multimodal framing analysis in short-form news videos. Computational Communication Research, 8(4), 1–35. doi:10.5117/ccr2026.4.4.hu"
+      requirements: "Data Mining & Social Data Mining, Advanced Probabilistic Machine Learning (meriting), Introduction to Image Analysis (meriting)"
+      contact: "Inga Wohlert"
+
+
     - title: "Segregation in population-scale social networks"
       status: "closed"
       description: "This project builds over a previous MSc thesis where we constructed a social opportunity network from statistical population registers, representing different types of relations such as family, or working on the same place, or living in the same neighborhood. The network contains around 10 million Swedish residents, with yearly updates on the status of their relations. The objective of this project is to study segregation processes over these networks."
