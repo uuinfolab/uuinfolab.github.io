@@ -44,10 +44,16 @@
   status: "open"
   positions:
     - title: "Multiple positions will soon be opened"
-      status: "open"
+      status: "closed"
       description: "Between September and October we will have a MSc fair where we present all the projects offered by our lab for the Spring term. The date for the fair will be set at the beginning of September."
       requirements: "Will vary depending on the project"
       contact: "Matteo Magnani"
+
+    - title: "Individual fairness in social network analysis"
+      status: "open"
+      description: "Individual fairness dictates that similar individuals should have similar outcomes. This constraint is centered around the notion of a task-specific similarity metric describing the extent to which pairs of individuals should be regarded as similar for the task at hand. The goal of this project is to examine how the structural bias of social networks impacts the bias of social network analysis algorithms, under various similarity metrics and network topologies. <a href='https://docs.google.com/document/d/1CDPf-SjlVfZSBTjpqsg8LF6kftMF2RoC6ZRb6I1EoR0/edit?usp=sharing'>More information</a>"
+      requirements: "Mining of Social Data"
+      contact: "Theodora Moldovan"
 
     - title: "Segregation in population-scale social networks"
       status: "closed"
