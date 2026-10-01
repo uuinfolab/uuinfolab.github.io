@@ -20,7 +20,6 @@ header:
 </figure>
 {% if person.url != nil %}</a>{% endif %}
 {% endfor %}
-<div class="stop"/>
 </div>
 
 <br/>
