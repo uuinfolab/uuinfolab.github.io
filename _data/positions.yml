@@ -78,6 +78,22 @@
       description: "Debates about election interference concern both attempts to manipulate electoral outcomes and the ways allegations are used in political discourse. Drawing on framing analysis, this project investigates how public discussion of election interference develops across countries and over time. Students will collect and analyse their own corpus, drawing on sources such as newspapers or parliamentary speeches, and combine classical text analysis with state-of-the-art NLP methods. Tasks will include topic modelling to identify issues, frequency analysis to measure their salience, sentiment and framing analysis to examine how interference is portrayed, and temporal modelling to trace shifts in attention. Comparisons may explore established and newer democracies, languages, media systems, or communication platforms. The project connects data science with social communication research to understand how election interference is discussed and how allegations contribute to broader narratives about elections. No prior knowledge of Swedish language or culture is required; additional language skills may support cross-country comparisons. <a href='https://docs.google.com/document/d/1Bsw-y0a9KgX3CYTUTOPdEckfhD6ylMDUR0EBGs5iywY/edit?usp=sharing'>More information</a>"
       requirements: "Mining of Social Data"
       contact: "Davide Vega"
+      
+    - title: "Operationalizing Social Theories for Multi-Agent AI Interaction in AI Village"
+      status: "open"
+      description: "This thesis will study longitudinal interaction data from the AI Village, an environment where different AI agents communicate, use tools and pursue shared goals. The central methodological challenge is to translate concepts from social science into measurable indicators of agent behaviour. The project will begin with a data audit and then select one primary theoretical perspective, such as routine dynamics, institutionalization, coordination theory or social influence. Abstract constructs will be operationalized into measurable features using suitable computational methods.
+The analysis may combine NLP/text mining, temporal network analysis, sequence/event analysis and other methods. Potential questions include how repeated practices become stable routines, whether some agents acquire persistent influence or coordination roles, how conventions spread across the group, and how agents respond when shared expectations are violated.
+The goal is not to claim that AI agents possess human social psychology, but to investigate whether concepts from social theory provide useful tools for describing and explaining observable collective behaviour in multi-agent AI systems."
+      requirements: "Mining of Social Data"
+      contact: "Ece Calikus"
+
+    - title: "Motif-Based Identification of the ECG Features Associated with Raised Intracranial Pressure"
+      status: "open"
+      description: "Traumatic brain injury (TBI) is one of the most important causes of death and disability worldwide, with an estimated 27 million new cases each year. Guidelines for TBI care emphasise that monitoring and treatment should be guided by increased intracranial pressure (ICP), but reliable ICP monitoring requires a neurosurgical procedure to place a sensor in the ventricles of the brain, making it unavailable to the majority of patients globally. Continuous electrocardiogram (ECG) is non-invasive and widely used for cardiac monitoring. ECG changes in severe neurological insult are clinically well recognised and are thought to arise from increased sympathetic activation and autonomic dysregulation secondary to intracranial pathology. A completed pilot analysis in this project (88 patients, 4.5 million 10-second windows) found that the ECG beat departs progressively further from its baseline shape as ICP increases, suggesting the association may be dose-dependent. This project addresses the explanatory question: which ECG features account for the association between the ECG and ICP? The project uses the MIMIC-III Waveform Database (patients with concurrent invasive ICP monitoring and continuous single-lead ECG). All data are de-identified and openly available through PhysioNet, and the preprocessing pipeline (decoding to physical units, 10-second windowing, validity labelling, mean ICP per window) is already built.”      
+      requirements: "Machine Learning, Deep Learning"
+      contact: "Ece Calikus"
+
+
 
     - title: "Segregation in population-scale social networks"
       status: "closed"
