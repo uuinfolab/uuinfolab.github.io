@@ -39,7 +39,7 @@
       requirements: "See the call"
       contact: "Matteo Magnani"
       url: "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=940776"
-      
+
 - level: "Master's theses"
   status: "open"
   positions:
@@ -61,6 +61,23 @@
       requirements: "Data Mining & Social Data Mining, Advanced Probabilistic Machine Learning (meriting), Introduction to Image Analysis (meriting)"
       contact: "Inga Wohlert"
 
+    - title: "Negotiating the Floor: Participation and Authority in Podcast Conversations"
+      status: "open"
+      description: "This project investigates how podcast hosts and guests negotiate participation and conversational authority. Combining transcript analysis with audio processing, you will examine how participants gain, maintain, and yield the conversational floor, and how interruptions, brief vocal responses, laughter, pauses, and overlapping speech shape a shared narrative. The social aim is to understand whether guests have space to develop independent accounts, primarily reinforce the host’s interpretation, or challenge the direction of the conversation. Students will align transcripts and audio, annotate selected interactional events, and develop models of their temporal relationships. Comparing transcript-based models with models incorporating timing and acoustic features will help evaluate what audio contributes to understanding these interactions. Comparisons may examine different podcast formats, formal versus enacted host–guest roles, and supportive versus competitive participation, while accounting for recording and editing differences. <a href='https://docs.google.com/document/d/15vMpLgdFWS7_cjo38arXjY-cMIBDsg-cbWJGHyzJfEA/edit?usp=sharing'>More information</a>"
+      requirements: "Mining of Social Data, Deep Learning"
+      contact: "Davide Vega"
+
+    - title: "Clustering Conversations Using Hypergraphs and Stochastic Block Models"
+      status: "open"
+      description: "Long conversations involve complex interactions between speakers, people directly addressed, and other participants who listen or respond. This project investigates how hypergraphs and stochastic block models (SBMs) can capture these relationships and reveal the structure of conversations in movies and podcasts. <a href='https://docs.google.com/document/d/1C2WIkm4jJDATVRVbr9cLnC8_4ePoNXt1xbhqXH7ti3U/edit?usp=sharing'>More information</a>"
+      requirements: "Mining of Social Data"
+      contact: "Davide Vega"
+
+    - title: "Comparing Election Interference Reporting Using Modern NLP Methods"
+      status: "open"
+      description: "Debates about election interference concern both attempts to manipulate electoral outcomes and the ways allegations are used in political discourse. Drawing on framing analysis, this project investigates how public discussion of election interference develops across countries and over time. Students will collect and analyse their own corpus, drawing on sources such as newspapers or parliamentary speeches, and combine classical text analysis with state-of-the-art NLP methods. Tasks will include topic modelling to identify issues, frequency analysis to measure their salience, sentiment and framing analysis to examine how interference is portrayed, and temporal modelling to trace shifts in attention. Comparisons may explore established and newer democracies, languages, media systems, or communication platforms. The project connects data science with social communication research to understand how election interference is discussed and how allegations contribute to broader narratives about elections. No prior knowledge of Swedish language or culture is required; additional language skills may support cross-country comparisons. <a href='https://docs.google.com/document/d/1Bsw-y0a9KgX3CYTUTOPdEckfhD6ylMDUR0EBGs5iywY/edit?usp=sharing'>More information</a>"
+      requirements: "Mining of Social Data"
+      contact: "Davide Vega"
 
     - title: "Segregation in population-scale social networks"
       status: "closed"
