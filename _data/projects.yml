@@ -115,7 +115,7 @@
 - scope: "Travel grants"
   projects:
 
-  - title: "Research stay"
+    - title: "Research stay"
       id: ""
       funder: "Liljewalch travel scholarships"
       years: "2026"
