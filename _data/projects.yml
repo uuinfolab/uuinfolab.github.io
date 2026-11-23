@@ -115,6 +115,12 @@
 - scope: "Travel grants"
   projects:
 
+  - title: "Research stay"
+      id: ""
+      funder: "Liljewalch travel scholarships"
+      years: "2026"
+      description: "Research stay at DIMES, University of Calabria (recipient: Diletta Goglia)."
+
     - title: "Research stay"
       id: ""
       funder: "Willgott Stenholm Scholarship Foundation"
